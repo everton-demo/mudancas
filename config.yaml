@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 1
+  key: abap #some_signature_key # Must be a string
+  name: mudancas_dashboard #some_cookie_name
+credentials:
+  usernames:
+    sapdr:
+      email: sapdr@gmail.com
+      failed_login_attempts: 0 # Will be managed automatically
+      first_name: SAP
+      last_name: DR
+      logged_in: False # Will be managed automatically
+      password: ABAP@2024 # Will be hashed automatically
+      roles: # Optional
+      - admin
+      - editor
+      - viewer
