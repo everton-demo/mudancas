@@ -10,7 +10,7 @@ credentials:
       first_name: SAP
       last_name: DR
       logged_in: False # Will be managed automatically
-      password: ABAP@2024 # Will be hashed automatically
+      password: $2b$12$HyQkFoM1xvHNC64WkQB6f.YLTGlFmvcs268Eat5hESS/b1gjqAgcO # Will be hashed automatically
       roles: # Optional
       - admin
       - editor
