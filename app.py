@@ -17,7 +17,7 @@ st.set_page_config(page_title="Mudanças ABAP", page_icon=":bar_chart:", layout=
 # https://www.youtube.com/watch?v=oWxAZoyyzCc&t=39s
 # https://discuss.streamlit.io/t/deploying-streamlit-authenticator-via-streamlit-community-cloud/39085
 # --- USER AUTHENTICATION ---
-with open('/config.yaml') as file:
+with open('config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
 
 # Pre-hashing all plain text passwords once
