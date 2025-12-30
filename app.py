@@ -111,6 +111,11 @@ elif st.session_state["authentication_status"]:
     if diretoria:
         dados_filtrados = dados_filtrados[dados_filtrados["Diretoria"] == diretoria]
 
+    # filtro de horas ABAP
+    horas_abap = st.sidebar.checkbox("Horas ABAP (TOP 10)", index=None)
+    if horas_abap:
+        dados_filtrados = dados_filtrados.sort_values("Horas").tail(10)
+
     # criar os gráficos
     col1, col2 = st.columns(2)
     col3, col4 = st.columns(2)
@@ -226,4 +231,5 @@ elif st.session_state["authentication_status"]:
     st.sidebar.write(f"""
     ### {nr_mudancas} mudanças selecionadas
     """)
+
 
