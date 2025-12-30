@@ -112,7 +112,7 @@ elif st.session_state["authentication_status"]:
         dados_filtrados = dados_filtrados[dados_filtrados["Diretoria"] == diretoria]
 
     # filtro de horas ABAP
-    horas_abap = st.sidebar.checkbox("Horas ABAP (TOP 10)", index=None)
+    horas_abap = st.sidebar.checkbox("Horas ABAP (TOP 10)")
     if horas_abap:
         dados_filtrados = dados_filtrados.sort_values("Horas").tail(10)
 
@@ -231,5 +231,6 @@ elif st.session_state["authentication_status"]:
     st.sidebar.write(f"""
     ### {nr_mudancas} mudanças selecionadas
     """)
+
 
 
