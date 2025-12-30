@@ -59,7 +59,7 @@ elif st.session_state["authentication_status"]:
 
     # criar a interface do streamlit
     st.write(f"""
-    # Mudanças implantadas em PRD entre 2023 e 2024
+    # Mudanças implantadas em PRD entre 2023 e 2025
     """)
 
     # prepara as visualizações = filtros
@@ -226,3 +226,4 @@ elif st.session_state["authentication_status"]:
     st.sidebar.write(f"""
     ### {nr_mudancas} mudanças selecionadas
     """)
+
