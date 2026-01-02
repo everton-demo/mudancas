@@ -239,7 +239,7 @@ Código;Status;Ano;Mês;Analista;Descrição da Mudança;Módulo;Solicitante;Diretoria
 6683;Entregue;2025;2;ANDERSONGI;Criar APIs para geração de documentos sob demanda;C4C;ISOLETE MAIS;Comercial;120;1
 6683;Entregue;2025;8;FABIOS;Criação de Função RFC para uso em Mashups (ZSD0059);SD;ISOLETE MAIS;Comercial;6;1
 6693;Entregue;2025;3;ROSANEL;Incluir e alterar campos na ZQM0049 e ZQM0048 gestão documentos fornecedores;QM;FERNANDA MARQUES CANDIDO;Inovação e Tecnologia;18;1
-6704;Entregue;2025;1;FABIOS;ZCRM0009 colunas segmentação e canal;SD;ELAINE KANZLER UBER;Marketing;32;1
+6704;Entregue;2025;1;FABIOS;ZCRM0009 colunas segmentação e canal;SD;ELAINE KANZLER UBER;Marketing;3;1
 6730;Entregue;2025;2;FABIOS;Incluir kna1-name2 no formulário de certificado de análise;QM;NÁTILA REZENDE DE SOUZA;Comercial;4;1
 6741;Entregue;2025;4;ROSANEL;Permitir editar campo código do cliente na ZRD0057;RD;DJEISON ROBERTO WENDT;Inovação e Tecnologia;1;1
 6745;Em testes;2025;9;DENIS;Bloco K inventário ZMM0110;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;6;1
