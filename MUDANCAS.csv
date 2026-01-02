@@ -1,311 +1,310 @@
-C√≥digo;Status;Ano;M√™s;Analista;Descri√ß√£o da Mudan√ßa;M√≥dulo;Solicitante;Diretoria;Horas;Count
-3055;Entregue;2024;6;FABIOS;Ajustar transa√ß√£o ZSD0066 envio de e-mail e impress√£o cont√≠nua NF frente e verso;SD;ROBERTO TORQUATO ALVES;Supply Chain;12;1
-3330;Entregue;2023;3;FABIOS;Ajustes na transa√ß√£o VL10C;SD;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;0;1
-3364;Entregue;2023;7;MARIANAF;Criar transa√ß√£o para cadastro e extra√ß√£o de relat√≥rio de requisitos de clientes - CIT;RD;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;40;1
-3433;Entregue;2024;9;DENIS;Melhorias workflow invent√°rios;MM;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;128;1
-4042;Entregue;2023;2;FABIOS;Ajuste na transa√ß√£o ZCRM0002 e ZCRM0009;SD;MARIANA CRISTINA TREIS FRASSON REITZ;Administrativa Financeira;2;1
-4042;Entregue;2023;9;FABIOS;Cria√ß√£o de campo em tabela ZCRMT0021 ‚ÄúNome do Projeto‚Äù;SD;MARIANA CRISTINA TREIS FRASSON REITZ;Administrativa Financeira;10;1
-4323;Entregue;2024;2;NADIRB;Criar Processo Workflow Limite de Cr√©dito FD32;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;72;1
-4455;Entregue;2023;5;NADIRB;Avaliar Transa√ß√£o ZFI0018 Programa ZFIR032;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;8;1
+CÛdigo;Status;Ano;MÍs;Analista;DescriÁ„o da MudanÁa;MÛdulo;Solicitante;Diretoria;Horas;Count
+3055;Entregue;2024;6;FABIOS;Ajustar transaÁ„o ZSD0066 envio de e-mail e impress„o contÌnua NF frente e verso;SD;ROBERTO TORQUATO ALVES;Supply Chain;12;1
+3330;Entregue;2023;3;FABIOS;Ajustes na transaÁ„o VL10C;SD;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;0;1
+3364;Entregue;2023;7;MARIANAF;Criar transaÁ„o para cadastro e extraÁ„o de relatÛrio de requisitos de clientes - CIT;RD;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;40;1
+3433;Entregue;2024;9;DENIS;Melhorias workflow invent·rios;MM;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;128;1
+4042;Entregue;2023;2;FABIOS;Ajuste na transaÁ„o ZCRM0002 e ZCRM0009;SD;MARIANA CRISTINA TREIS FRASSON REITZ;Administrativa Financeira;2;1
+4042;Entregue;2023;9;FABIOS;CriaÁ„o de campo em tabela ZCRMT0021 ìNome do Projetoî;SD;MARIANA CRISTINA TREIS FRASSON REITZ;Administrativa Financeira;10;1
+4323;Entregue;2024;2;NADIRB;Criar Processo Workflow Limite de CrÈdito FD32;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;72;1
+4455;Entregue;2023;5;NADIRB;Avaliar TransaÁ„o ZFI0018 Programa ZFIR032;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;8;1
 4529;Entregue;2023;8;NADIRB;Criar Nova Regra de Bloqueio OV;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;8;1
-4574;Entregue;2023;4;DENIS;Criar Simulador para Paletiza√ß√£o Onda 1;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;0;1
-4766;Entregue;2024;9;DENIS;Criar ponto na MIRO para aplica√ß√£o do IVA no custo Complementar de frete Planejado;MM;JOSIANE MACEDO;Administrativa Financeira;4;1
+4574;Entregue;2023;4;DENIS;Criar Simulador para PaletizaÁ„o Onda 1;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;0;1
+4766;Entregue;2024;9;DENIS;Criar ponto na MIRO para aplicaÁ„o do IVA no custo Complementar de frete Planejado;MM;JOSIANE MACEDO;Administrativa Financeira;4;1
 4912;Entregue;2024;6;FABIOS;Projeto Amostra representativa;SD;DIEGO JACOMOLISKI;Supply Chain;104;1
 4936;Entregue;2023;8;FABIOS;"Ajuste no campo ""agrupamento ordens"" no cadastro do cliente";SD;FRANCIELE DA LUZ GWIAZDECKI;Marketing;5;1
 5044;Entregue;2023;9;DENIS;Criar um ponto na Include ZXMG0U02 validar NCM;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
 5058;Entregue;2024;1;FABIOS;Ajuste no documento de acompanhamento de remessa e etiqueta amarela;SD;ROBERTO TORQUATO ALVES;Supply Chain;8;1
-5102;Entregue;2023;5;KLEBERSON;Ajuste fun√ß√£o MII - Finaliza√ß√£o da ordem (problema hora homem);PP;LAERTE LUIS FRANZ;Opera√ß√µes Industriais;2;1
-5144;Entregue;2023;7;NADIRB;Desenvolver Melhoria ZCO0011 - Justificativa Or√ßamento;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;40;1
-5146;Entregue;2023;7;MARCOSR;Ajuste tabela nutricional r√≥tulo;PP;DJEISON ROBERTO WENDT;Opera√ß√µes Industriais;42;1
+5102;Entregue;2023;5;KLEBERSON;Ajuste funÁ„o MII - FinalizaÁ„o da ordem (problema hora homem);PP;LAERTE LUIS FRANZ;OperaÁıes Industriais;2;1
+5144;Entregue;2023;7;NADIRB;Desenvolver Melhoria ZCO0011 - Justificativa OrÁamento;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;40;1
+5146;Entregue;2023;7;MARCOSR;Ajuste tabela nutricional rÛtulo;PP;DJEISON ROBERTO WENDT;OperaÁıes Industriais;42;1
 5155;Entregue;2023;3;FABIOS;Ajuste no documento de acompanhamento da remessa;SD;FRANCIELE DA LUZ GWIAZDECKI;Marketing;0;1
 5217;Entregue;2023;4;NADIRB;Ajustar Texto ZFI0018;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;0;1
-5261;Entregue;2024;2;FABIOS;Impress√£o OV desconto ZDDA do valor total c/ imposto;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
-5261;Entregue;2024;2;FABIOS;Aut. devolu√ß√£o desconto ZDDA do valor total e c/ imposto e alterar textos rodap√©;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;6;1
+5261;Entregue;2024;2;FABIOS;Impress„o OV desconto ZDDA do valor total c/ imposto;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
+5261;Entregue;2024;2;FABIOS;Aut. devoluÁ„o desconto ZDDA do valor total e c/ imposto e alterar textos rodapÈ;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;6;1
 5281;Entregue;2023;2;DENIS;"Ajusta ponto EGR ""Comentar novamente o programa""";MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;0;1
-5292;Entregue;2023;8;MARCOSR;Atribuir hist√≥rico de impress√£o dos r√≥tulos para ordem de produ√ß√£o;PP;JEAN MARQUES DE OLIVEIRA;Opera√ß√µes Industriais;4;1
-5314;Entregue;2023;10;DENIS;Ajustes para Reestrutura do Picking WMS DR-SBC;WM;CRISTHIANE PAOLA DOS SANTOS FERREIRA;Opera√ß√µes Industriais;40;1
-5316;Entregue;2023;6;DENIS;Ajustes Processo Intercompany;MM;ELIZABETH VENANCIO DA SILVA;Opera√ß√µes Industriais;16;1
-5327;Entregue;2023;8;MARIANAF;"Cria√ß√£o de campos tipo ""flag"" na ZRD0054 e NWBC/F√≥rmula de aplica√ß√£o, para sinaliza√ß√£o de itens e f√≥rmulas de destaque";RD;FRANCIELE OLIVEIRA GOULART;Inova√ß√£o e Tecnologia;16;1
-5345;Entregue;2023;4;DENIS;Modificar Ponto Valida√ß√£o CNPJ Duplicado;MM;KAUAM RANGHETTI GON√áALVES;Supply Chain;0;1
+5292;Entregue;2023;8;MARCOSR;Atribuir histÛrico de impress„o dos rÛtulos para ordem de produÁ„o;PP;JEAN MARQUES DE OLIVEIRA;OperaÁıes Industriais;4;1
+5314;Entregue;2023;10;DENIS;Ajustes para Reestrutura do Picking WMS DR-SBC;WM;CRISTHIANE PAOLA DOS SANTOS FERREIRA;OperaÁıes Industriais;40;1
+5316;Entregue;2023;6;DENIS;Ajustes Processo Intercompany;MM;ELIZABETH VENANCIO DA SILVA;OperaÁıes Industriais;16;1
+5327;Entregue;2023;8;MARIANAF;"CriaÁ„o de campos tipo ""flag"" na ZRD0054 e NWBC/FÛrmula de aplicaÁ„o, para sinalizaÁ„o de itens e fÛrmulas de destaque";RD;FRANCIELE OLIVEIRA GOULART;InovaÁ„o e Tecnologia;16;1
+5345;Entregue;2023;4;DENIS;Modificar Ponto ValidaÁ„o CNPJ Duplicado;MM;KAUAM RANGHETTI GON«ALVES;Supply Chain;0;1
 5350;Entregue;2023;3;MARIANAF;Incluir campos referente transporte na ZQM0052;QM;GRAZIANNE GUIMARAES BERTUOL;Supply Chain;0;1
-5354;Entregue;2023;7;KLEBERSON;Ajustar fun√ß√£o que exibe os componentes da ordem;PP;ROBERTO RAFAEL DE LIMA;Opera√ß√µes Industriais;0;1
-5386;Entregue;2023;7;DENIS;Aplicar Regra de Cria√ß√£o OT Shuttle;MM;ROBERTO RAFAEL DE LIMA;Opera√ß√µes Industriais;0;1
-5411;Entregue;2023;3;MARIANAF;FT NWBC - Alterar regra observa√ß√£o aplica√ß√£o Fumo;RD;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;0;1
-5442;Entregue;2023;12;DENIS;Valida√ß√£o Processo Exclus√£o IPI base PIS e COFINS;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;120;1
-5451;Entregue;2023;7;NADIRB;Disparar E-mail Di√°rio OB08 e OB83;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;16;1
-5462;Entregue;2023;8;MARIANAF;Desenvolver formul√°rio de avalia√ß√£o de impacto dentro da ficha de produto (NWBC);RD;EDER JOSE FERREIRA;Inova√ß√£o e Tecnologia;44;1
-5490;Entregue;2023;7;DENIS;Inserir nova coluna nos relat√≥rios ZQM0052 e ZSD0008;SD;ROBERTO TORQUATO ALVES;Supply Chain;2;1
-5495;Entregue;2023;6;NADIRB;Inclus√£o de Campos de Margem e Ajuste de Nomenclaturas ZCO0012;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
-5506;Entregue;2023;10;MARIANAF;Adequa√ß√µes da ficha de produto e ficha t√©cnica, para exibi√ß√£o da tabela nutricional em mL, para produtos l√≠quidos;RD;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;5;1
-5509;Entregue;2023;10;MARCOSR;Avaliar transa√ß√£o para atribuir ordens de produ√ß√£o em massa;PP;DIEGO JACOMOLISKI;Supply Chain;16;1
-5515;Entregue;2023;7;MARIANAF;Ajuste na visualiza√ß√£o de notas QM na ZQM0052;QM;GRAZIANNE GUIMARAES BERTUOL;Supply Chain;4;1
-5532;Entregue;2024;5;MARCOSR;ZPP0076 enviar e-mail a cada altera√ß√£o;PP;N√ÅTILA REZENDE DE SOUZA;Comercial;12;1
-5533;Entregue;2024;5;MARCOSR;ZPP0076 data solicita√ß√£o e prazo para previs√£o de vendas;PP;N√ÅTILA REZENDE DE SOUZA;Comercial;8;1
-5561;Entregue;2023;10;DENIS;Ativar nova tela no PO, e Ajuste de dados na transa√ß√£o ME28;MM;KAUAM RANGHETTI GON√áALVES;Supply Chain;24;1
+5354;Entregue;2023;7;KLEBERSON;Ajustar funÁ„o que exibe os componentes da ordem;PP;ROBERTO RAFAEL DE LIMA;OperaÁıes Industriais;0;1
+5386;Entregue;2023;7;DENIS;Aplicar Regra de CriaÁ„o OT Shuttle;MM;ROBERTO RAFAEL DE LIMA;OperaÁıes Industriais;0;1
+5411;Entregue;2023;3;MARIANAF;FT NWBC - Alterar regra observaÁ„o aplicaÁ„o Fumo;RD;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;0;1
+5442;Entregue;2023;12;DENIS;ValidaÁ„o Processo Exclus„o IPI base PIS e COFINS;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;120;1
+5451;Entregue;2023;7;NADIRB;Disparar E-mail Di·rio OB08 e OB83;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;16;1
+5462;Entregue;2023;8;MARIANAF;Desenvolver formul·rio de avaliaÁ„o de impacto dentro da ficha de produto (NWBC);RD;EDER JOSE FERREIRA;InovaÁ„o e Tecnologia;44;1
+5490;Entregue;2023;7;DENIS;Inserir nova coluna nos relatÛrios ZQM0052 e ZSD0008;SD;ROBERTO TORQUATO ALVES;Supply Chain;2;1
+5495;Entregue;2023;6;NADIRB;Inclus„o de Campos de Margem e Ajuste de Nomenclaturas ZCO0012;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
+5506;Entregue;2023;10;MARIANAF;AdequaÁıes da ficha de produto e ficha tÈcnica, para exibiÁ„o da tabela nutricional em mL, para produtos lÌquidos;RD;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;5;1
+5509;Entregue;2023;10;MARCOSR;Avaliar transaÁ„o para atribuir ordens de produÁ„o em massa;PP;DIEGO JACOMOLISKI;Supply Chain;16;1
+5515;Entregue;2023;7;MARIANAF;Ajuste na visualizaÁ„o de notas QM na ZQM0052;QM;GRAZIANNE GUIMARAES BERTUOL;Supply Chain;4;1
+5532;Entregue;2024;5;MARCOSR;ZPP0076 enviar e-mail a cada alteraÁ„o;PP;N¡TILA REZENDE DE SOUZA;Comercial;12;1
+5533;Entregue;2024;5;MARCOSR;ZPP0076 data solicitaÁ„o e prazo para previs„o de vendas;PP;N¡TILA REZENDE DE SOUZA;Comercial;8;1
+5561;Entregue;2023;10;DENIS;Ativar nova tela no PO, e Ajuste de dados na transaÁ„o ME28;MM;KAUAM RANGHETTI GON«ALVES;Supply Chain;24;1
 5573;Entregue;2023;6;NADIRB;Criar Programa Check Notes PIX SAP Note 3127880;FI;NADIR BASEGGIO;Administrativa Financeira;1;1
 5594;Entregue;2023;7;NADIRB;Campos Z Itens FBL;FI;ELISANDRA MARTINS CHAVES;Administrativa Financeira;8;1
-5600;Entregue;2023;7;MARIANAF;ZRDIAPD - Corrigir a forma de busca dos materiais transformados e atualizar a base de dados com as informa√ß√µes dos ZSEM;RD;FRANCIELE OLIVEIRA GOULART;Inova√ß√£o e Tecnologia;24;1
-5600;Entregue;2023;9;MARIANAF;Cria√ß√£o de uma nova coluna no arquivo metadata para sinalizar os materiais que possuem ficha de produto - ZRDIAPD;RD;FRANCIELE OLIVEIRA GOULART;Inova√ß√£o e Tecnologia;8;1
-5600;Entregue;2023;12;MARIANAF;Projeto Drica Similaridade - Inserir novos dados para extra√ß√£o na ZRDIAPD (linha e sabor);RD;FRANCIELE OLIVEIRA GOULART;Inova√ß√£o e Tecnologia;4;1
-5618;Entregue;2023;7;KLEBERSON;B1 - Ajustar classe de atualiza√ß√£o do cliente para o B1;SD;FABIO DA SILVA;Administrativa Financeira;4;1
-5620;Entregue;2023;7;KLEBERSON;"Sequenciamento - Diverg√™ncia na restri√ß√£o ""Componente""";PP;ANA CAROLINA CATELI FERREIRA;Opera√ß√µes Industriais;8;1
+5600;Entregue;2023;7;MARIANAF;ZRDIAPD - Corrigir a forma de busca dos materiais transformados e atualizar a base de dados com as informaÁıes dos ZSEM;RD;FRANCIELE OLIVEIRA GOULART;InovaÁ„o e Tecnologia;24;1
+5600;Entregue;2023;9;MARIANAF;CriaÁ„o de uma nova coluna no arquivo metadata para sinalizar os materiais que possuem ficha de produto - ZRDIAPD;RD;FRANCIELE OLIVEIRA GOULART;InovaÁ„o e Tecnologia;8;1
+5600;Entregue;2023;12;MARIANAF;Projeto Drica Similaridade - Inserir novos dados para extraÁ„o na ZRDIAPD (linha e sabor);RD;FRANCIELE OLIVEIRA GOULART;InovaÁ„o e Tecnologia;4;1
+5618;Entregue;2023;7;KLEBERSON;B1 - Ajustar classe de atualizaÁ„o do cliente para o B1;SD;FABIO DA SILVA;Administrativa Financeira;4;1
+5620;Entregue;2023;7;KLEBERSON;"Sequenciamento - DivergÍncia na restriÁ„o ""Componente""";PP;ANA CAROLINA CATELI FERREIRA;OperaÁıes Industriais;8;1
 5629;Entregue;2024;5;DENIS;CALCULATE_TAX_ITEM frete PIS/COFINS 4 casas decimais;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;16;1
-5659;Entregue;2023;8;DENIS;Ajuste Determina√ß√£o de lotes, Quantidade parti√ß√£o permitida;MM;ROBERTO TORQUATO ALVES;Supply Chain;2;1
-5663;Entregue;2023;8;ELISANDRAC;Relat√≥rio para FINEP;FI;ALMANDO DOS SANTOS JUNIOR;Inova√ß√£o e Tecnologia;16;1
-5665;Entregue;2024;7;DENIS;Fazer Deploy Monitor FIORI - SAP MDM;MM;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;2;1
-5672;Entregue;2024;2;KLEBERSON;Relat√≥rio com as atribui√ß√µes dos componentes a fase das receitas;PP;JOHANN WEIDNER TOMAZELLI;Opera√ß√µes Industriais;48;1
-5675;Entregue;2024;8;DENIS;Relat√≥rio Ganho Conta e Ordem EGT;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;4;1
-5690;Entregue;2024;1;DENIS;Realizar ajuste Contagem inventario Ciclico;MM;JEMYSON SANTOS NUNES;Opera√ß√µes Industriais;8;1
-5708;Entregue;2024;2;MARCOSR;Nova regra para especifica√ß√£o do tipo de alerg√™nico ZPP0080 + coluna setup COOISPI;PP;INGRID SOUZA BRIKALSKI;Opera√ß√µes Industriais;32;1
-5720;Entregue;2023;12;MARIANAF;Adi√ß√£o de novos campos na FT;RD;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;40;1
-5724;Entregue;2023;10;DENIS;Determina√ß√£o do contrato no PO de compras;MM;KAUAM RANGHETTI GON√áALVES;Supply Chain;2;1
-5726;Entregue;2023;9;ELISANDRAC;EF- Relat√≥rio layout cart√≥rio;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;6;1
-5734;Entregue;2023;9;FABIOS;Ajuste na transa√ß√£o ZSD0003 Averba√ß√£o para seguros de Frete;SD;ROBERTO TORQUATO ALVES;Supply Chain;1;1
-5736;Entregue;2023;10;MARIANAF;ZRDWATSON campo de parecer sensorial externo;RD;FRANCIELE OLIVEIRA GOULART;Inova√ß√£o e Tecnologia;3;1
-5736;Entregue;2024;8;MARIANAF;Projeto Drica Assistente Virtual - Inclus√£o de campos espec√≠ficos para limites inferior e superior das an√°lises;RD;FRANCIELE OLIVEIRA GOULART;Inova√ß√£o e Tecnologia;6;1
+5659;Entregue;2023;8;DENIS;Ajuste DeterminaÁ„o de lotes, Quantidade partiÁ„o permitida;MM;ROBERTO TORQUATO ALVES;Supply Chain;2;1
+5663;Entregue;2023;8;ELISANDRAC;RelatÛrio para FINEP;FI;ALMANDO DOS SANTOS JUNIOR;InovaÁ„o e Tecnologia;16;1
+5665;Entregue;2024;7;DENIS;Fazer Deploy Monitor FIORI - SAP MDM;MM;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;2;1
+5672;Entregue;2024;2;KLEBERSON;RelatÛrio com as atribuiÁıes dos componentes a fase das receitas;PP;JOHANN WEIDNER TOMAZELLI;OperaÁıes Industriais;48;1
+5675;Entregue;2024;8;DENIS;RelatÛrio Ganho Conta e Ordem EGT;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;4;1
+5690;Entregue;2024;1;DENIS;Realizar ajuste Contagem inventario Ciclico;MM;JEMYSON SANTOS NUNES;OperaÁıes Industriais;8;1
+5708;Entregue;2024;2;MARCOSR;Nova regra para especificaÁ„o do tipo de alergÍnico ZPP0080 + coluna setup COOISPI;PP;INGRID SOUZA BRIKALSKI;OperaÁıes Industriais;32;1
+5720;Entregue;2023;12;MARIANAF;AdiÁ„o de novos campos na FT;RD;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;40;1
+5724;Entregue;2023;10;DENIS;DeterminaÁ„o do contrato no PO de compras;MM;KAUAM RANGHETTI GON«ALVES;Supply Chain;2;1
+5726;Entregue;2023;9;ELISANDRAC;EF- RelatÛrio layout cartÛrio;FI;TATIANE TAISE DEBATIN;Administrativa Financeira;6;1
+5734;Entregue;2023;9;FABIOS;Ajuste na transaÁ„o ZSD0003 AverbaÁ„o para seguros de Frete;SD;ROBERTO TORQUATO ALVES;Supply Chain;1;1
+5736;Entregue;2023;10;MARIANAF;ZRDWATSON campo de parecer sensorial externo;RD;FRANCIELE OLIVEIRA GOULART;InovaÁ„o e Tecnologia;3;1
+5736;Entregue;2024;8;MARIANAF;Projeto Drica Assistente Virtual - Inclus„o de campos especÌficos para limites inferior e superior das an·lises;RD;FRANCIELE OLIVEIRA GOULART;InovaÁ„o e Tecnologia;6;1
 5739;Entregue;2023;9;ELISANDRAC;Ajuste ZCO0014N;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;8;1
-5740;Entregue;2023;11;KLEBERSON;Sequenciamento ajustes real sequenciado;PP;INGRID SOUZA BRIKALSKI;Opera√ß√µes Industriais;120;1
-5759;Entregue;2024;7;DENIS;Projeto Ariba - Criar Transa√ß√£o Cadastro Pre√ßo Planejado;MM;DIEGO TIAGO BORGES;Supply Chain;40;1
-5759;Entregue;2024;4;DENIS;Ajustar campos de Append transa√ß√£o ME5A (pedido X cota√ß√£o);MM;DIEGO TIAGO BORGES;Supply Chain;1;1
-5759;Entregue;2024;9;DENIS;Criar Subtela Requisi√ß√£o de Compras Pre√ßo planejado e BR00 ariba;MM;DIEGO TIAGO BORGES;Supply Chain;4;1
-5762;Entregue;2023;9;MARIANAF;Corre√ß√£o de campos que est√£o cortando informa√ß√µes cadastradas previamente - ZRD0055;RD;BRUNA DA SILVA FISCHER;Administrativa Financeira;3;1
-5789;Entregue;2023;9;DENIS;Ajuste na montagem do texto mestre de materiais;MM;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;2;1
-5805;Entregue;2024;3;DENIS;Aplica√ß√£o Cell Color no report ZMM0056 'Qualidade';MM;BRUNA HELOISA KLINKOWSKI;Opera√ß√µes Industriais;2;1
+5740;Entregue;2023;11;KLEBERSON;Sequenciamento ajustes real sequenciado;PP;INGRID SOUZA BRIKALSKI;OperaÁıes Industriais;120;1
+5759;Entregue;2024;7;DENIS;Projeto Ariba - Criar TransaÁ„o Cadastro PreÁo Planejado;MM;DIEGO TIAGO BORGES;Supply Chain;40;1
+5759;Entregue;2024;4;DENIS;Ajustar campos de Append transaÁ„o ME5A (pedido X cotaÁ„o);MM;DIEGO TIAGO BORGES;Supply Chain;1;1
+5759;Entregue;2024;9;DENIS;Criar Subtela RequisiÁ„o de Compras PreÁo planejado e BR00 ariba;MM;DIEGO TIAGO BORGES;Supply Chain;4;1
+5762;Entregue;2023;9;MARIANAF;CorreÁ„o de campos que est„o cortando informaÁıes cadastradas previamente - ZRD0055;RD;BRUNA DA SILVA FISCHER;Administrativa Financeira;3;1
+5789;Entregue;2023;9;DENIS;Ajuste na montagem do texto mestre de materiais;MM;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;2;1
+5805;Entregue;2024;3;DENIS;AplicaÁ„o Cell Color no report ZMM0056 'Qualidade';MM;BRUNA HELOISA KLINKOWSKI;OperaÁıes Industriais;2;1
 5808;Entregue;2023;10;NADIRB;Gerar Senha Arquivo PDF Boleto;FI;JULIANA PRADI;Administrativa Financeira;80;1
-5818;Entregue;2024;9;MARIANAF;ZRD0055 - Vis√µes e perfis de acesso diferentes;RD;BRUNA DA SILVA FISCHER;Administrativa Financeira;12;1
-5836;Entregue;2024;8;MARIANAF;Adicionar campos para inserir imagens e coment√°rios, no acordo t√©cnico de MPs - ZQM0021;QM;ROSANE DA LUZ CUSTODIO;Opera√ß√µes Industriais;80;1
-5839;Entregue;2023;10;MARIANAF;Ajustar a transa√ß√£o ZQM0040 para ser utilizada na integra√ß√£o de nota QM ao C4C;QM;ANDERSON GIESE;Administrativa Financeira;8;1
-5843;Entregue;2023;10;ALANAN;ZAIS0008 alterar informa√ß√£o de usu√°rios sem acesso de -90 dias para -45;AIS;ALANA NERIS DE OLIVEIRA;Administrativa Financeira;3;1
-5843;Entregue;2023;9;ALANAN;Ajuste ZAIS0011 n√£o exigindo aprova√ß√£o de objeto cr√≠tico;AIS;ALANA NERIS DE OLIVEIRA;Administrativa Financeira;5;1
-5861;Entregue;2024;5;MARIANAF;Revisar processo de SKIP c√≥pia de resultados;QM;LARISSA PEREIRA GUIMARAES;Opera√ß√µes Industriais;48;1
-5862;Entregue;2024;5;MARIANAF;Corre√ß√£o na transa√ß√£o ZQMRQEVAC50N - Estorno lote de controle;QM;MARCIO JOSE LIS;Opera√ß√µes Industriais;2;1
-5868;Entregue;2023;12;MARIANAF;Inserir campo do lote do fornecedor no e-mail de laudo de revenda - SO10;QM;BRUNA HELOISA KLINKOWSKI;Opera√ß√µes Industriais;2;1
-5918;Entregue;2023;12;FABIOS;Adicionar colunas na transa√ß√£o ZCRM0009;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;3;1
-5919;Entregue;2023;12;FABIOS;Melhorias formul√°rios ZSAM e acomp. ordem, e atalho na ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;12;1
-5921;Entregue;2023;10;MARCOSR;Novo c√≥digo de certifica√ß√£o e logo para r√≥tulo;PP;DJEISON ROBERTO WENDT;Opera√ß√µes Industriais;8;1
-5927;Entregue;2024;1;ELISANDRAC;Cockpit Regras Gerenciais de Neg√≥cios;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;12;1
-5928;Entregue;2024;1;ELISANDRAC;"Criar Campo ""aromateca"" na transa√ß√£o ZCO0007";CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;4;1
+5818;Entregue;2024;9;MARIANAF;ZRD0055 - Visıes e perfis de acesso diferentes;RD;BRUNA DA SILVA FISCHER;Administrativa Financeira;12;1
+5836;Entregue;2024;8;MARIANAF;Adicionar campos para inserir imagens e coment·rios, no acordo tÈcnico de MPs - ZQM0021;QM;ROSANE DA LUZ CUSTODIO;OperaÁıes Industriais;80;1
+5839;Entregue;2023;10;MARIANAF;Ajustar a transaÁ„o ZQM0040 para ser utilizada na integraÁ„o de nota QM ao C4C;QM;ANDERSON GIESE;Administrativa Financeira;8;1
+5843;Entregue;2023;10;ALANAN;ZAIS0008 alterar informaÁ„o de usu·rios sem acesso de -90 dias para -45;AIS;ALANA NERIS DE OLIVEIRA;Administrativa Financeira;3;1
+5843;Entregue;2023;9;ALANAN;Ajuste ZAIS0011 n„o exigindo aprovaÁ„o de objeto crÌtico;AIS;ALANA NERIS DE OLIVEIRA;Administrativa Financeira;5;1
+5861;Entregue;2024;5;MARIANAF;Revisar processo de SKIP cÛpia de resultados;QM;LARISSA PEREIRA GUIMARAES;OperaÁıes Industriais;48;1
+5862;Entregue;2024;5;MARIANAF;CorreÁ„o na transaÁ„o ZQMRQEVAC50N - Estorno lote de controle;QM;MARCIO JOSE LIS;OperaÁıes Industriais;2;1
+5868;Entregue;2023;12;MARIANAF;Inserir campo do lote do fornecedor no e-mail de laudo de revenda - SO10;QM;BRUNA HELOISA KLINKOWSKI;OperaÁıes Industriais;2;1
+5918;Entregue;2023;12;FABIOS;Adicionar colunas na transaÁ„o ZCRM0009;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;3;1
+5919;Entregue;2023;12;FABIOS;Melhorias formul·rios ZSAM e acomp. ordem, e atalho na ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;12;1
+5921;Entregue;2023;10;MARCOSR;Novo cÛdigo de certificaÁ„o e logo para rÛtulo;PP;DJEISON ROBERTO WENDT;OperaÁıes Industriais;8;1
+5927;Entregue;2024;1;ELISANDRAC;Cockpit Regras Gerenciais de NegÛcios;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;12;1
+5928;Entregue;2024;1;ELISANDRAC;"Criar Campo ""aromateca"" na transaÁ„o ZCO0007";CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;4;1
 5932;Entregue;2024;6;MARCOSR;Melhorias ZPP0063 Kanban montagem de lotes;PP;RODRIGO PADILHA BOTTARO;Supply Chain;8;1
-5952;Entregue;2023;10;NADIRB;Corre√ß√£o Libera√ß√£o PEP x Heflo;PS;ELISANDRA MARTINS CHAVES;Administrativa Financeira;8;1
-5967;Entregue;2024;8;MARIANAF;ZQM0003 - Inserir dados para apoiar na gest√£o das demandas de AFS;QM;LUIZ CARLOS OLIVEIRA SILVA;Opera√ß√µes Industriais;16;1
-5977;Entregue;2024;10;DENIS;Relat√≥rio PMPC (Prazo M√©dio de Pagamento das Compras);MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;28;1
-5982;Entregue;2023;11;MARIANAF;ZQMT0033 - Alterar o tipo de campo que recebe informa√ß√£o do plano de controle;QM;LORENZO ALBRECHT RIBAS;Inova√ß√£o e Tecnologia;4;1
-5983;Entregue;2023;11;NADIRB;ZFI0024 - Criar Valida√ß√£o de Valores;FI;LUCIANO NADIN SCHIESSL;Rela√ß√µes Humanas;8;1
-6006;Entregue;2023;12;MARIANAF;Criar exce√ß√£o para impress√£o de frase de biodiversidade na FT - Materiais sabor a√ßa√≠;RD;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;2;1
-6009;Entregue;2024;1;ELISANDRAC;Inclus√£o de Campos Neg√≥cio e Subneg√≥cio na Transa√ß√£o ZCO0012;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;16;1
-6010;Entregue;2024;1;ELISANDRAC;Incluir o tipo de condi√ß√£o ZART - Transa√ß√£o ZSD0072 Atualiza√ß√£o de Tabela de Pre√ßos;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;16;1
-6012;Entregue;2024;2;NADIRB;Melhoria WF Aprova√ß√£o Adiantamento ZFI0024 ou F-47;FI;TAIS MARCELI MEDEIROS VALDAMERI;Rela√ß√µes Humanas;16;1
-6029;Entregue;2024;5;NADIRB;Recebimentos Cart√£o Cr√©dito Belluno (API);FI;JULIANA PRADI;Administrativa Financeira;48;1
-6043;Entregue;2023;12;MARCOSR;Campo NIVEIS DE GARANTIA para atribui√ß√£o ZPP0059;PP;DJEISON ROBERTO WENDT;Opera√ß√µes Industriais;8;1
-6057;Entregue;2024;4;DENIS;Incluir dois novos campos no report ZMMR0067;MM;KAUAM RANGHETTI GON√áALVES;Supply Chain;1;1
-6085;Entregue;2024;2;FABIOS;VL71 textos cliente padr√£o idioma PT e ajuste laudo;SD;SABRINA ROCHER CLARINDO;Comercial;2;1
-6102;Entregue;2024;1;ELISANDRAC;Ajuste no Programa da Transa√ß√£o ZCO0053 (DUMP);CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
-6114;Entregue;2024;1;ELISANDRAC;Ajuste Programa ZCOR0012- Transa√ß√£o ZCO0012 (DUMP);CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;3;1
-6123;Entregue;2024;6;MARIANAF;Ajuste fun√ß√£o origem animal na FT;RD;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;8;1
-6123;Entregue;2024;8;MARIANAF;Novo par√¢metro para exibi√ß√£o de Origem animal e GMO na FT - ZINT_FINAL;RD;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;8;1
+5952;Entregue;2023;10;NADIRB;CorreÁ„o LiberaÁ„o PEP x Heflo;PS;ELISANDRA MARTINS CHAVES;Administrativa Financeira;8;1
+5967;Entregue;2024;8;MARIANAF;ZQM0003 - Inserir dados para apoiar na gest„o das demandas de AFS;QM;LUIZ CARLOS OLIVEIRA SILVA;OperaÁıes Industriais;16;1
+5977;Entregue;2024;10;DENIS;RelatÛrio PMPC (Prazo MÈdio de Pagamento das Compras);MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;28;1
+5982;Entregue;2023;11;MARIANAF;ZQMT0033 - Alterar o tipo de campo que recebe informaÁ„o do plano de controle;QM;LORENZO ALBRECHT RIBAS;InovaÁ„o e Tecnologia;4;1
+5983;Entregue;2023;11;NADIRB;ZFI0024 - Criar ValidaÁ„o de Valores;FI;LUCIANO NADIN SCHIESSL;RelaÁıes Humanas;8;1
+6006;Entregue;2023;12;MARIANAF;Criar exceÁ„o para impress„o de frase de biodiversidade na FT - Materiais sabor aÁaÌ;RD;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;2;1
+6009;Entregue;2024;1;ELISANDRAC;Inclus„o de Campos NegÛcio e SubnegÛcio na TransaÁ„o ZCO0012;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;16;1
+6010;Entregue;2024;1;ELISANDRAC;Incluir o tipo de condiÁ„o ZART - TransaÁ„o ZSD0072 AtualizaÁ„o de Tabela de PreÁos;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;16;1
+6012;Entregue;2024;2;NADIRB;Melhoria WF AprovaÁ„o Adiantamento ZFI0024 ou F-47;FI;TAIS MARCELI MEDEIROS VALDAMERI;RelaÁıes Humanas;16;1
+6029;Entregue;2024;5;NADIRB;Recebimentos Cart„o CrÈdito Belluno (API);FI;JULIANA PRADI;Administrativa Financeira;48;1
+6043;Entregue;2023;12;MARCOSR;Campo NIVEIS DE GARANTIA para atribuiÁ„o ZPP0059;PP;DJEISON ROBERTO WENDT;OperaÁıes Industriais;8;1
+6057;Entregue;2024;4;DENIS;Incluir dois novos campos no report ZMMR0067;MM;KAUAM RANGHETTI GON«ALVES;Supply Chain;1;1
+6085;Entregue;2024;2;FABIOS;VL71 textos cliente padr„o idioma PT e ajuste laudo;SD;SABRINA ROCHER CLARINDO;Comercial;2;1
+6102;Entregue;2024;1;ELISANDRAC;Ajuste no Programa da TransaÁ„o ZCO0053 (DUMP);CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
+6114;Entregue;2024;1;ELISANDRAC;Ajuste Programa ZCOR0012- TransaÁ„o ZCO0012 (DUMP);CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;3;1
+6123;Entregue;2024;6;MARIANAF;Ajuste funÁ„o origem animal na FT;RD;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;8;1
+6123;Entregue;2024;8;MARIANAF;Novo par‚metro para exibiÁ„o de Origem animal e GMO na FT - ZINT_FINAL;RD;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;8;1
 6152;Entregue;2024;8;DENIS;E-mail ao alterar data remessa no PO;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;8;1
-6162;Entregue;2024;10;FABIOS;Adicionar campos relat√≥rio ZSD0065 e visualizar OVs de devou√ß√£o;SD;N√ÅTILA REZENDE DE SOUZA;Comercial;4;1
-6163;Entregue;2024;2;NADIRB;Ajustes Integra√ß√£o Heflo e CN41N;PS;ELISANDRA MARTINS CHAVES;Administrativa Financeira;8;1
-6164;Entregue;2024;5;FABIOS;ZCRM0002 indicar material ZACA revenda sem transforma√ß√£o;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;2;1
-6164;Entregue;2024;5;FABIOS;ZCRM0009 campos com sujeira em execu√ß√£o massiva;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;3;1
-6164;Entregue;2024;6;FABIOS;Impress√£o de remessa VL71 habilitar dispositivo sa√≠da (impressora) para edi√ß√£o;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;16;1
-6164;Entregue;2024;6;FABIOS;Analise de diverg√™ncia na cria√ß√£o de OV via monitor ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;4;1
-6171;Entregue;2024;2;NADIRB;Fun√ß√µes remotas para BI status do objeto (PEP);PS;ALMANDO DOS SANTOS JUNIOR;Inova√ß√£o e Tecnologia;3;1
-6203;Entregue;2024;5;NADIRB;Projeto Amplia√ß√£o de Centros Forma√ß√£o de Pre√ßo - Ajustes ZCO0007 e ZCO0061;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
-6203;Entregue;2024;5;NADIRB;Melhoria ZCO0005 Elimina√ß√£o Massa Pre√ßo Planejado;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;2;1
-6203;Entregue;2024;5;KLEBERSON;Cria√ß√£o programa de carga - Lista t√©cnica;PP;SANDRA MARA WUERGES RAHN;Administrativa Financeira;24;1
-6203;Entregue;2024;5;MARIANAF;Sincroniza√ß√£o da LT na NWBC - Adicionar centros Chile, Col√¥mbia e M√©xico;RD;SANDRA MARA WUERGES RAHN;Administrativa Financeira;8;1
-6203;Entregue;2024;5;MARIANAF;Sincroniza√ß√£o da LT na NWBC - fornecedor padr√£o para lista sem centro;RD;SANDRA MARA WUERGES RAHN;Administrativa Financeira;2;1
-6211;Entregue;2024;2;ELISANDRAC;ZCO0018 Cockpit Regras Gerenciais - Atribuir Ger√™ncia a Escrit√≥rio de Vendas;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
+6162;Entregue;2024;10;FABIOS;Adicionar campos relatÛrio ZSD0065 e visualizar OVs de devouÁ„o;SD;N¡TILA REZENDE DE SOUZA;Comercial;4;1
+6163;Entregue;2024;2;NADIRB;Ajustes IntegraÁ„o Heflo e CN41N;PS;ELISANDRA MARTINS CHAVES;Administrativa Financeira;8;1
+6164;Entregue;2024;5;FABIOS;ZCRM0002 indicar material ZACA revenda sem transformaÁ„o;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;2;1
+6164;Entregue;2024;5;FABIOS;ZCRM0009 campos com sujeira em execuÁ„o massiva;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;3;1
+6164;Entregue;2024;6;FABIOS;Impress„o de remessa VL71 habilitar dispositivo saÌda (impressora) para ediÁ„o;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;16;1
+6164;Entregue;2024;6;FABIOS;Analise de divergÍncia na criaÁ„o de OV via monitor ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;4;1
+6171;Entregue;2024;2;NADIRB;FunÁıes remotas para BI status do objeto (PEP);PS;ALMANDO DOS SANTOS JUNIOR;InovaÁ„o e Tecnologia;3;1
+6203;Entregue;2024;5;NADIRB;Projeto AmpliaÁ„o de Centros FormaÁ„o de PreÁo - Ajustes ZCO0007 e ZCO0061;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
+6203;Entregue;2024;5;NADIRB;Melhoria ZCO0005 EliminaÁ„o Massa PreÁo Planejado;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;2;1
+6203;Entregue;2024;5;KLEBERSON;CriaÁ„o programa de carga - Lista tÈcnica;PP;SANDRA MARA WUERGES RAHN;Administrativa Financeira;24;1
+6203;Entregue;2024;5;MARIANAF;SincronizaÁ„o da LT na NWBC - Adicionar centros Chile, ColÙmbia e MÈxico;RD;SANDRA MARA WUERGES RAHN;Administrativa Financeira;8;1
+6203;Entregue;2024;5;MARIANAF;SincronizaÁ„o da LT na NWBC - fornecedor padr„o para lista sem centro;RD;SANDRA MARA WUERGES RAHN;Administrativa Financeira;2;1
+6211;Entregue;2024;2;ELISANDRAC;ZCO0018 Cockpit Regras Gerenciais - Atribuir GerÍncia a EscritÛrio de Vendas;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;4;1
 6212;Entregue;2024;2;DEMO;Auditoria externa Deloitte;BASIS;RAFAEL DALL'ANESE DE CAMPOS;Administrativa Financeira;8;1
-6228;Entregue;2024;9;DENIS;Projeto Self-Checkout SBC;MM;CRISTHIANE PAOLA DOS SANTOS FERREIRA;Opera√ß√µes Industriais;32;1
-6253;Entregue;2024;7;FABIOS;Criar Relat√≥rio de ordens de venda ZSD0011;SD;N√ÅTILA REZENDE DE SOUZA;Comercial;3;1
-6274;Entregue;2024;8;CLANDERSON;Relat√≥rio de Saldos Pendentes GNF (/SPROGNF/110);CO;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;16;1
-6319;Entregue;2024;6;DENIS;Inclus√£o campo Item estrat√©gico no Mestre de material (tipo de estoque);MM;DIEGO JACOMOLISKI;Supply Chain;4;1
-6326;Entregue;2024;6;FABIOS;Adicionar dados de paletiza√ß√£o na ZSD0059;SD;N√ÅTILA REZENDE DE SOUZA;Comercial;2;1
-6336;Entregue;2024;7;MARCOSR;Ajuste fun√ß√£o ZF_PP_PROC_COMPONENTE consumo do componente condimentos;PP;INGRID SOUZA BRIKALSKI;Opera√ß√µes Industriais;4;1
-6337;Entregue;2024;7;DENIS;Altera√ß√£o Layout Espelho de NF ALM recebimento de mercadoria MIGO / MB90;MM;RODRIGO PADILHA BOTTARO;Supply Chain;3;1
+6228;Entregue;2024;9;DENIS;Projeto Self-Checkout SBC;MM;CRISTHIANE PAOLA DOS SANTOS FERREIRA;OperaÁıes Industriais;32;1
+6253;Entregue;2024;7;FABIOS;Criar RelatÛrio de ordens de venda ZSD0011;SD;N¡TILA REZENDE DE SOUZA;Comercial;3;1
+6274;Entregue;2024;8;CLANDERSON;RelatÛrio de Saldos Pendentes GNF (/SPROGNF/110);CO;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;16;1
+6319;Entregue;2024;6;DENIS;Inclus„o campo Item estratÈgico no Mestre de material (tipo de estoque);MM;DIEGO JACOMOLISKI;Supply Chain;4;1
+6326;Entregue;2024;6;FABIOS;Adicionar dados de paletizaÁ„o na ZSD0059;SD;N¡TILA REZENDE DE SOUZA;Comercial;2;1
+6336;Entregue;2024;7;MARCOSR;Ajuste funÁ„o ZF_PP_PROC_COMPONENTE consumo do componente condimentos;PP;INGRID SOUZA BRIKALSKI;OperaÁıes Industriais;4;1
+6337;Entregue;2024;7;DENIS;AlteraÁ„o Layout Espelho de NF ALM recebimento de mercadoria MIGO / MB90;MM;RODRIGO PADILHA BOTTARO;Supply Chain;3;1
 6344;Entregue;2024;7;DENIS;Include ICMS ST credito a pagar transportadora determinar IVA;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
-6353;Entregue;2024;7;ELISANDRAC;Relat√≥rio de tarifas estratificadas similar KSBT;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;8;1
-6354;Entregue;2024;5;ELISANDRAC;ZCO0050 e ZCO0052 campo projeto or√ßado ano anterior;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;8;1
-6360;Entregue;2024;5;DENIS;Erro valida√ß√£o Registro Inventario ZMM0114;MM;RODRIGO WIESNIEWSKY;Administrativa Financeira;8;1
-6378;Entregue;2024;7;NADIRB;Criar Transa√ß√£o ZFI para SAP Note 2125220_2127698;FI;ROSEMERI FAGUNDES PRA;Administrativa Financeira;4;1
-6384;Entregue;2024;5;FRANCISCOJ;ZAIS0002 relat√≥rio auditoria interna add AC014;AIS;FRANCISCO JOSE PEREIRA;Administrativa Financeira;2;1
+6353;Entregue;2024;7;ELISANDRAC;RelatÛrio de tarifas estratificadas similar KSBT;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;8;1
+6354;Entregue;2024;5;ELISANDRAC;ZCO0050 e ZCO0052 campo projeto orÁado ano anterior;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;8;1
+6360;Entregue;2024;5;DENIS;Erro validaÁ„o Registro Inventario ZMM0114;MM;RODRIGO WIESNIEWSKY;Administrativa Financeira;8;1
+6378;Entregue;2024;7;NADIRB;Criar TransaÁ„o ZFI para SAP Note 2125220_2127698;FI;ROSEMERI FAGUNDES PRA;Administrativa Financeira;4;1
+6384;Entregue;2024;5;FRANCISCOJ;ZAIS0002 relatÛrio auditoria interna add AC014;AIS;FRANCISCO JOSE PEREIRA;Administrativa Financeira;2;1
 6386;Entregue;2024;5;MARIANAF;ZQM0010 excel via abap2xlsx abapGit;QM;MARIANA CRISTINA TREIS FRASSON REITZ;Administrativa Financeira;40;1
-6415;Entregue;2024;5;MARIANAF;ZQM0004 laudos e ZRD0047 FE de NFs que est√£o em conting√™ncia;QM;MARIANA CRISTINA TREIS FRASSON REITZ;Administrativa Financeira;8;1
-6420;Entregue;2024;5;DENIS;Ajuste ponto determina√ß√£o de contrato no PO;MM;KAUAM RANGHETTI GON√áALVES;Supply Chain;2;1
-6462;Entregue;2024;10;FABIOS;DUMP integra√ß√£o cliente C4C mail default n√£o alterar ECC;SD;ALINE HEINZEN;Marketing;2;1
-6499;Entregue;2024;7;ELISANDRAC;Reten√ß√£o IRRF Vistex /N/IRM/IPSI35;VISTEX;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;8;1
-6501;Entregue;2024;8;NADIRB;Desenvolver Transa√ß√£o API Presta√ß√£o de Contas Excel√™ncia;FI;JULIANA PRADI;Administrativa Financeira;32;1
-6509;Entregue;2024;7;FABIOS;Adicionar filtros relat√≥rio ZSD0058;SD;N√ÅTILA REZENDE DE SOUZA;Comercial;2;1
-6514;Entregue;2024;6;FABIOS;Alterar a descri√ß√£o de campo standard + cria√ß√£o de campo no cadastro do cliente KNA1;SD;FRANCIELE DA LUZ GWIAZDECKI;Marketing;8;1
-6514;Entregue;2024;7;FABIOS;Ajustes na transa√ß√£o ZSD0057;SD;FRANCIELE DA LUZ GWIAZDECKI;Marketing;2;1
+6415;Entregue;2024;5;MARIANAF;ZQM0004 laudos e ZRD0047 FE de NFs que est„o em contingÍncia;QM;MARIANA CRISTINA TREIS FRASSON REITZ;Administrativa Financeira;8;1
+6420;Entregue;2024;5;DENIS;Ajuste ponto determinaÁ„o de contrato no PO;MM;KAUAM RANGHETTI GON«ALVES;Supply Chain;2;1
+6462;Entregue;2024;10;FABIOS;DUMP integraÁ„o cliente C4C mail default n„o alterar ECC;SD;ALINE HEINZEN;Marketing;2;1
+6499;Entregue;2024;7;ELISANDRAC;RetenÁ„o IRRF Vistex /N/IRM/IPSI35;VISTEX;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;8;1
+6501;Entregue;2024;8;NADIRB;Desenvolver TransaÁ„o API PrestaÁ„o de Contas ExcelÍncia;FI;JULIANA PRADI;Administrativa Financeira;32;1
+6509;Entregue;2024;7;FABIOS;Adicionar filtros relatÛrio ZSD0058;SD;N¡TILA REZENDE DE SOUZA;Comercial;2;1
+6514;Entregue;2024;6;FABIOS;Alterar a descriÁ„o de campo standard + criaÁ„o de campo no cadastro do cliente KNA1;SD;FRANCIELE DA LUZ GWIAZDECKI;Marketing;8;1
+6514;Entregue;2024;7;FABIOS;Ajustes na transaÁ„o ZSD0057;SD;FRANCIELE DA LUZ GWIAZDECKI;Marketing;2;1
 6520;Entregue;2024;7;NADIRB;Apoio Depurar Programa da F.13;FI;ROSEMERI FAGUNDES PRA;Administrativa Financeira;8;1
-6521;Entregue;2024;7;NADIRB;Criar Transa√ß√£o ZFI - Compensar Clientes Vendas a Vista;FI;CRISTIANE KATH MASKE;Administrativa Financeira;4;1
-6528;Entregue;2024;9;MARIANAF;FDS - Mapeamento de caracter√≠stica para novo t√≥pico criado;RD;PAULO EMIGDIO DE ALMEIDA CARDIA;Opera√ß√µes Industriais;8;1
-6529;Entregue;2024;10;DENIS;Informa√ß√£o de posi√ß√£o selecionada ap√≥s leitura Coletor Zebra (Android);WM;ROBERTO TORQUATO ALVES;Supply Chain;8;1
+6521;Entregue;2024;7;NADIRB;Criar TransaÁ„o ZFI - Compensar Clientes Vendas a Vista;FI;CRISTIANE KATH MASKE;Administrativa Financeira;4;1
+6528;Entregue;2024;9;MARIANAF;FDS - Mapeamento de caracterÌstica para novo tÛpico criado;RD;PAULO EMIGDIO DE ALMEIDA CARDIA;OperaÁıes Industriais;8;1
+6529;Entregue;2024;10;DENIS;InformaÁ„o de posiÁ„o selecionada apÛs leitura Coletor Zebra (Android);WM;ROBERTO TORQUATO ALVES;Supply Chain;8;1
 6534;Entregue;2024;7;DENIS;Inserir ponto na BADI de NF para preencher dados modelo 66;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
-6541;Entregue;2024;7;MARIANAF;ZQM0048 - Adi√ß√£o do c√≥digo do grupo de compradores;QM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;1;1
-6544;Entregue;2024;10;DENIS;Enhancement Determina√ß√£o de CFOP modelo de NF 67;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;4;1
-6549;Entregue;2024;9;FABIOS;Novos campos, corre√ß√£o filtros e performance ZSD0008;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;16;1
-6552;Entregue;2024;9;MARIANAF;Novos campos na ZQM0041 e ZQM0044;QM;ROSANE DA LUZ CUSTODIO;Opera√ß√µes Industriais;28;1
-6552;Entregue;2024;10;MARIANAF;ZQM0003 conflito bandeja de CAR e treinamento;QM;ROSANE DA LUZ CUSTODIO;Opera√ß√µes Industriais;4;1
-6552;Entregue;2024;10;DENIS;Aplicar Bloqueio aba Lote de controle campos obrigat√≥rios ZQM0041;QM;ROSANE DA LUZ CUSTODIO;Opera√ß√µes Industriais;2;1
-6554;Entregue;2024;7;DENIS;ZMM0120 alterar fun√ß√£o c√°lculo dias;MM;FELIPE GASQUES DE STEFANO;Supply Chain;2;1
-6554;Entregue;2024;11;DENIS;Adicionar campos e alterar c√°lculo data relat√≥rio ZMM0120;MM;FELIPE GASQUES DE STEFANO;Supply Chain;3;1
+6541;Entregue;2024;7;MARIANAF;ZQM0048 - AdiÁ„o do cÛdigo do grupo de compradores;QM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;1;1
+6544;Entregue;2024;10;DENIS;Enhancement DeterminaÁ„o de CFOP modelo de NF 67;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;4;1
+6549;Entregue;2024;9;FABIOS;Novos campos, correÁ„o filtros e performance ZSD0008;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;16;1
+6552;Entregue;2024;9;MARIANAF;Novos campos na ZQM0041 e ZQM0044;QM;ROSANE DA LUZ CUSTODIO;OperaÁıes Industriais;28;1
+6552;Entregue;2024;10;MARIANAF;ZQM0003 conflito bandeja de CAR e treinamento;QM;ROSANE DA LUZ CUSTODIO;OperaÁıes Industriais;4;1
+6552;Entregue;2024;10;DENIS;Aplicar Bloqueio aba Lote de controle campos obrigatÛrios ZQM0041;QM;ROSANE DA LUZ CUSTODIO;OperaÁıes Industriais;2;1
+6554;Entregue;2024;7;DENIS;ZMM0120 alterar funÁ„o c·lculo dias;MM;FELIPE GASQUES DE STEFANO;Supply Chain;2;1
+6554;Entregue;2024;11;DENIS;Adicionar campos e alterar c·lculo data relatÛrio ZMM0120;MM;FELIPE GASQUES DE STEFANO;Supply Chain;3;1
 6557;Entregue;2024;7;NADIRB;Atividades Manuais Nota 2961954 e programa Nota 186095 ref. F150;FI;ISABEL KELLER;Administrativa Financeira;4;1
-6569;Entregue;2024;10;DENIS;Ajuste lan√ßamento frete COPA;MM;RODRIGO WIESNIEWSKY;Administrativa Financeira;1;1
-6589;Entregue;2024;9;DENIS;Ajustes Dados Tela Monitor de solicita√ß√£o de materiais;MM;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;16;1
+6569;Entregue;2024;10;DENIS;Ajuste lanÁamento frete COPA;MM;RODRIGO WIESNIEWSKY;Administrativa Financeira;1;1
+6589;Entregue;2024;9;DENIS;Ajustes Dados Tela Monitor de solicitaÁ„o de materiais;MM;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;16;1
 6601;Entregue;2024;7;ELISANDRAC;Implementar programa ZMLHELP_CCS_LOTSIZE_ADJUST;CO;NADIR BASEGGIO;Administrativa Financeira;1;1
-6614;Entregue;2024;9;NADIRB;Tradu√ß√µes CKMHELP;CO;ELISANDRA MARTINS CHAVES;Administrativa Financeira;2;1
+6614;Entregue;2024;9;NADIRB;TraduÁıes CKMHELP;CO;ELISANDRA MARTINS CHAVES;Administrativa Financeira;2;1
 6625;Entregue;2024;8;NADIRB;FF.5 alterar chave FEBKO-AZIDT identificador extrato;FI;JULIANA PRADI;Administrativa Financeira;8;1
 6625;Entregue;2024;9;NADIRB;Atribuir Programa RFEBKA96 na ZQM0001;FI;JULIANA PRADI;Administrativa Financeira;2;1
-6666;Entregue;2024;10;NADIRB;Transa√ß√£o ZFI Consumo API Somos Global;FI;JULIANA PRADI;Administrativa Financeira;24;1
-6674;Entregue;2024;10;DENIS;Adicionar campo Denomina√ß√£o 2 Grupo Mercadorias ZMM0064;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;2;1
-6688;Entregue;2024;10;FABIOS;Altera√ß√£o informa√ß√£o de envio e descontos em formul√°rio da Proforma VA03;SD;N√ÅTILA REZENDE DE SOUZA;Comercial;3;1
-6688;Entregue;2024;11;FABIOS;Altera√ß√£o informa√ß√£o de desconto ZDMA em formul√°rio da Proforma VA03;SD;N√ÅTILA REZENDE DE SOUZA;Comercial;1;1
-6695;Entregue;2024;10;DENIS;Convers√£o quantidade e volumes relat√≥rio ZMM0072;MM;ROBERTO TORQUATO ALVES;Supply Chain;3;1
-6701;Entregue;2024;10;DENIS;Criar Email Substituto altera√ß√£o da Remessa PO;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;2;1
-6719;Entregue;2024;10;NADIRB;ZFI0013 altera√ß√£o defsize call transaction;FI;HIGOR PRATS CRUZ DE JESUS;Administrativa Financeira;1;1
-6732;Entregue;2024;10;DENIS;Envio de Email por Grupo Centro ZMDM0002;MM;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;4;1
-5481;Entregue;2024;10;MARCOSR;Restri√ß√£o KOSHER nos al√©rgicos;PP;INGRID SOUZA BRIKALSKI;Opera√ß√µes Industriais;15;1
-6565;Entregue;2024;10;DENIS;"Criar novo Layout EAN-128 ""Mondelez""";MM;LETICIA SASSE ZAVADNIAK;Opera√ß√µes Industriais;36;1
-6656;Entregue;2024;10;DENIS;Ajuste Formulas VOFM Frete peso m√≠nimo;LES;JEMYSON SANTOS NUNES;Opera√ß√µes Industriais;11;1
-6772;Entregue;2024;10;MARCOSR;Amostra representativa confirma√ß√£o final dep√≥sito LC;PP;JEAN MARQUES DE OLIVEIRA;Opera√ß√µes Industriais;16;1
-69;Entregue;2025;9;ELISANDRAC;Transa√ß√£o para lan√ßamento de receita planejada e realizada - mapa de faturamento internacional;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;17;1
-90;Entregue;2025;10;ROSANEL;ZRD0055 restri√ß√£o acesso HZ causando DUMP;RD;EVELIN CAROLINE DE AZEVEDO;Administrativa Financeira;8;1
-93;Entregue;2025;9;ROSANEL;Aumentar intervalo de dias permitidos na sele√ß√£o da transa√ß√£o ZQM0003;QM;CINTIA REGINA STINGHEN;Inova√ß√£o e Tecnologia;1;1
-94;Entregue;2025;10;DENIS;Convers√£o de Moeda Relat√≥rio ZMM0120;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;3;1
-105;Entregue;2025;10;NADIRB;Cria√ß√£o Transa√ß√£o ZFI - Lan√ßamento FB50 Massiva;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;17;1
-110;Entregue;2025;10;FABIOS;Tradu√ß√£o ZCRM0006;CRM;SANDRA MARA WUERGES RAHN;Administrativa Financeira;2;1
-119;Em testes;2025;10;MARCOSR;Sequenciamento Inteligente - Corre√ß√£o primeiro lote e amostra padr√£o AFS;PP;DANIEL REINKE;Supply Chain;3;1
-120;Em testes;2025;10;MARCOSR;Fun√ß√£o remota para impress√£o etiqueta ZPP0020;PP;RODRIGO PADILHA BOTTARO;Supply Chain;2;1
-123;Em testes;2025;4;NADIRB;WF F-47 refazer valida√ß√£o usuario cadastro aprovador;FI;ISABEL KELLER;Administrativa Financeira;1;1
+6666;Entregue;2024;10;NADIRB;TransaÁ„o ZFI Consumo API Somos Global;FI;JULIANA PRADI;Administrativa Financeira;24;1
+6674;Entregue;2024;10;DENIS;Adicionar campo DenominaÁ„o 2 Grupo Mercadorias ZMM0064;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;2;1
+6688;Entregue;2024;10;FABIOS;AlteraÁ„o informaÁ„o de envio e descontos em formul·rio da Proforma VA03;SD;N¡TILA REZENDE DE SOUZA;Comercial;3;1
+6688;Entregue;2024;11;FABIOS;AlteraÁ„o informaÁ„o de desconto ZDMA em formul·rio da Proforma VA03;SD;N¡TILA REZENDE DE SOUZA;Comercial;1;1
+6695;Entregue;2024;10;DENIS;Convers„o quantidade e volumes relatÛrio ZMM0072;MM;ROBERTO TORQUATO ALVES;Supply Chain;3;1
+6701;Entregue;2024;10;DENIS;Criar Email Substituto alteraÁ„o da Remessa PO;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;2;1
+6719;Entregue;2024;10;NADIRB;ZFI0013 alteraÁ„o defsize call transaction;FI;HIGOR PRATS CRUZ DE JESUS;Administrativa Financeira;1;1
+6732;Entregue;2024;10;DENIS;Envio de Email por Grupo Centro ZMDM0002;MM;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;4;1
+5481;Entregue;2024;10;MARCOSR;RestriÁ„o KOSHER nos alÈrgicos;PP;INGRID SOUZA BRIKALSKI;OperaÁıes Industriais;15;1
+6565;Entregue;2024;10;DENIS;"Criar novo Layout EAN-128 ""Mondelez""";MM;LETICIA SASSE ZAVADNIAK;OperaÁıes Industriais;36;1
+6656;Entregue;2024;10;DENIS;Ajuste Formulas VOFM Frete peso mÌnimo;LES;JEMYSON SANTOS NUNES;OperaÁıes Industriais;11;1
+6772;Entregue;2024;10;MARCOSR;Amostra representativa confirmaÁ„o final depÛsito LC;PP;JEAN MARQUES DE OLIVEIRA;OperaÁıes Industriais;16;1
+69;Entregue;2025;9;ELISANDRAC;TransaÁ„o para lanÁamento de receita planejada e realizada - mapa de faturamento internacional;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;17;1
+90;Entregue;2025;10;ROSANEL;ZRD0055 restriÁ„o acesso HZ causando DUMP;RD;EVELIN CAROLINE DE AZEVEDO;Administrativa Financeira;8;1
+93;Entregue;2025;9;ROSANEL;Aumentar intervalo de dias permitidos na seleÁ„o da transaÁ„o ZQM0003;QM;CINTIA REGINA STINGHEN;InovaÁ„o e Tecnologia;1;1
+94;Entregue;2025;10;DENIS;Convers„o de Moeda RelatÛrio ZMM0120;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;3;1
+105;Entregue;2025;10;NADIRB;CriaÁ„o TransaÁ„o ZFI - LanÁamento FB50 Massiva;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;17;1
+110;Entregue;2025;10;FABIOS;TraduÁ„o ZCRM0006;CRM;SANDRA MARA WUERGES RAHN;Administrativa Financeira;2;1
+119;Em testes;2025;10;MARCOSR;Sequenciamento Inteligente - CorreÁ„o primeiro lote e amostra padr„o AFS;PP;DANIEL REINKE;Supply Chain;3;1
+120;Em testes;2025;10;MARCOSR;FunÁ„o remota para impress„o etiqueta ZPP0020;PP;RODRIGO PADILHA BOTTARO;Supply Chain;2;1
+123;Em testes;2025;4;NADIRB;WF F-47 refazer validaÁ„o usuario cadastro aprovador;FI;ISABEL KELLER;Administrativa Financeira;1;1
 133;Entregue;2025;9;NADIRB;Adicionar coluna ZFI0046 e usar valor no atalho para F-29;FI;ISABEL KELLER;Administrativa Financeira;2;1
-134;Entregue;2025;10;NADIRB;Programa de Carga Contas Contabeis FS01;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;5;1
-134;Entregue;2025;12;NADIRB;ZFI0027 carga contas a pagar add c√≥digo antigo fornecedor;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;8;1
-134;Entregue;2025;12;NADIRB;Tradu√ß√£o WF limite de cr√©dito FD32;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;8;1
-134;Entregue;2025;12;NADIRB;Add pa√≠s e idioma ZFIT0117 credenciais ZFI0070;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;1;1
-135;Em testes;2025;11;MARCOSR;Tradu√ß√£o ZPP0020 Impress√£o de Etiqueta de Identifica√ß√£o;PP;DANIEL REINKE;Supply Chain;4;1
+134;Entregue;2025;10;NADIRB;Programa de Carga Contas Contabeis FS01;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;5;1
+134;Entregue;2025;12;NADIRB;ZFI0027 carga contas a pagar add cÛdigo antigo fornecedor;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;8;1
+134;Entregue;2025;12;NADIRB;TraduÁ„o WF limite de crÈdito FD32;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;8;1
+134;Entregue;2025;12;NADIRB;Add paÌs e idioma ZFIT0117 credenciais ZFI0070;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;1;1
+135;Em testes;2025;11;MARCOSR;TraduÁ„o ZPP0020 Impress„o de Etiqueta de IdentificaÁ„o;PP;DANIEL REINKE;Supply Chain;4;1
 135;Entregue;2025;12;JACYRP;Passos manuais notas referentes Note Analyzer em SNOTE;BASIS;JACYR JEFFERSON POPENDA;Administrativa Financeira;4;1
-135;Em testes;2025;12;FABIOS;ZCRM0002 determinar categoria do item na OV;CRM;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;4;1
-135;Em testes;2025;12;NADIRB;Criar Transa√ß√£o ZFI - Relat√≥rio Sa√≠das;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;20;1
-135;Em testes;2025;12;NADIRB;Altera√ß√µes cargas contas a pagar e receber ZFI0027;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;1;1
-137;Entregue;2025;9;DENIS;ZMM0077 tradu√ß√£o grupo mercadoria externo (sabor);MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;2;1
-141;Entregue;2025;10;FABIOS;DRICA Lighthouse - Altera√ß√µes campo STATUS_ATEND da ZSAM;CRM;ISOLETE MAIS;Comercial;16;1
-141;Entregue;2025;10;FABIOS;ZCRM0009 descri√ß√£o parceiro cliente/distribuidor;CRM;ISOLETE MAIS;Comercial;3;1
+135;Em testes;2025;12;FABIOS;ZCRM0002 determinar categoria do item na OV;CRM;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;4;1
+135;Em testes;2025;12;NADIRB;Criar TransaÁ„o ZFI - RelatÛrio SaÌdas;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;20;1
+135;Em testes;2025;12;NADIRB;AlteraÁıes cargas contas a pagar e receber ZFI0027;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;1;1
+137;Entregue;2025;9;DENIS;ZMM0077 traduÁ„o grupo mercadoria externo (sabor);MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;2;1
+141;Entregue;2025;10;FABIOS;DRICA Lighthouse - AlteraÁıes campo STATUS_ATEND da ZSAM;CRM;ISOLETE MAIS;Comercial;16;1
+141;Entregue;2025;10;FABIOS;ZCRM0009 descriÁ„o parceiro cliente/distribuidor;CRM;ISOLETE MAIS;Comercial;3;1
 141;Em testes;2025;10;FABIOS;ZCRM0002 e ZCRM0009 trocar COD_APLICACAO por COD_APLICACAO_SUG nos ALVs;CRM;ISOLETE MAIS;Comercial;1;1
 190;Entregue;2025;10;NADIRB;Alterar rate limit API Bellluno ZFI0013;FI;ISABEL KELLER;Administrativa Financeira;4;1
-192;Entregue;2025;10;DENIS;N√£o determinar NCM com base em pedido anterior em pedidos de importa√ß√£o PC;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;1;1
-194;Entregue;2025;10;CLANDERSON;DUMP classe ZFHG_BADI_CPE atualiza√ß√£o Guepardo;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;1;1
+192;Entregue;2025;10;DENIS;N„o determinar NCM com base em pedido anterior em pedidos de importaÁ„o PC;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;1;1
+194;Entregue;2025;10;CLANDERSON;DUMP classe ZFHG_BADI_CPE atualizaÁ„o Guepardo;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;1;1
 203;Entregue;2025;10;NADIRB;Atribuir data atual em VBRP-FBUDA no faturamento;CO;RODRIGO WIESNIEWSKY;Administrativa Financeira;1;1
-204;Em testes;2025;10;ROSANEL;Novas exce√ß√µes ZRD0053 para n√£o imprimir t√≥picos na FT NWBC;RD;LETICIA SASSE ZAVADNIAK;Inova√ß√£o e Tecnologia;8;1
-207;Entregue;2025;10;DENIS;Tradu√ß√£o ZMM0042;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;2;1
-207;Entregue;2025;10;DENIS;Tradu√ß√£o ZMM0043;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;2;1
-207;Entregue;2025;10;DENIS;Adicionar op√ß√µes NCM e HS Codes na ZFI0031;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;4;1
-213;Em testes;2025;12;DENIS;Upload Melhorias CheckList Avulso e Ve√≠culo Fiori (GWD);MM;JOHANN WEIDNER TOMAZELLI;Opera√ß√µes Industriais;1;1
-216;Entregue;2025;10;NADIRB;Ajustar ZDR0001 e Macro Planilha Batch Input;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;1;1
-222;Em testes;2025;12;FABIOS;Tradu√ß√£o customiza√ß√µes VA;SD;JEAN MARCEL SASSE DE AZEVEDO;Comercial;4;1
-222;Em testes;2025;12;FABIOS;Carga clientes ZSD0069 add amplia√ß√£o empresa e campos na amplia√ß√£o dados vendas;SD;JEAN MARCEL SASSE DE AZEVEDO;Comercial;8;1
-222;Em testes;2025;12;FABIOS;Adicionar coluna Unidade venda no relat√≥rio ZSD0059;SD;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;2;1
-222;Em testes;2025;12;FABIOS;Textos para flags monitor ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;2;1
-222;Em testes;2025;12;FABIOS;Tradu√ß√£o unidade respons√°vel ZC4CT0027 e adequar locais que usam;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;1;1
-235;Em testes;2025;10;DENIS;ZMM0083 carga MM01 adicionar coluna categ. imposto;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;2;1
-235;Em testes;2025;11;DENIS;Tradu√ß√£o guias Z item pedido de compras;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;4;1
-235;Em testes;2025;11;DENIS;Organiza√ß√£o de vendas processo Intercompany;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;16;1
-235;Em testes;2025;12;DENIS;ZMM0083 carga MM01 adicionar coluna hscode;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;3;1
-235;Em testes;2025;12;DENIS;ZMM0084 carga fornecedor e info DUMP relat√≥rio campos;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;1;1
-235;Em testes;2025;12;DENIS;ZMM0084 carga fornecedor ajustes mercado externo EX;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;3;1
+204;Em testes;2025;10;ROSANEL;Novas exceÁıes ZRD0053 para n„o imprimir tÛpicos na FT NWBC;RD;LETICIA SASSE ZAVADNIAK;InovaÁ„o e Tecnologia;8;1
+207;Entregue;2025;10;DENIS;TraduÁ„o ZMM0042;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;2;1
+207;Entregue;2025;10;DENIS;TraduÁ„o ZMM0043;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;2;1
+207;Entregue;2025;10;DENIS;Adicionar opÁıes NCM e HS Codes na ZFI0031;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;4;1
+213;Em testes;2025;12;DENIS;Upload Melhorias CheckList Avulso e VeÌculo Fiori (GWD);MM;JOHANN WEIDNER TOMAZELLI;OperaÁıes Industriais;1;1
+216;Entregue;2025;10;NADIRB;Ajustar ZDR0001 e Macro Planilha Batch Input;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;1;1
+222;Em testes;2025;12;FABIOS;TraduÁ„o customizaÁıes VA;SD;JEAN MARCEL SASSE DE AZEVEDO;Comercial;4;1
+222;Em testes;2025;12;FABIOS;Carga clientes ZSD0069 add ampliaÁ„o empresa e campos na ampliaÁ„o dados vendas;SD;JEAN MARCEL SASSE DE AZEVEDO;Comercial;8;1
+222;Em testes;2025;12;FABIOS;Adicionar coluna Unidade venda no relatÛrio ZSD0059;SD;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;2;1
+222;Em testes;2025;12;FABIOS;Textos para flags monitor ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;2;1
+222;Em testes;2025;12;FABIOS;TraduÁ„o unidade respons·vel ZC4CT0027 e adequar locais que usam;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;1;1
+235;Em testes;2025;10;DENIS;ZMM0083 carga MM01 adicionar coluna categ. imposto;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;2;1
+235;Em testes;2025;11;DENIS;TraduÁ„o guias Z item pedido de compras;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;4;1
+235;Em testes;2025;11;DENIS;OrganizaÁ„o de vendas processo Intercompany;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;16;1
+235;Em testes;2025;12;DENIS;ZMM0083 carga MM01 adicionar coluna hscode;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;3;1
+235;Em testes;2025;12;DENIS;ZMM0084 carga fornecedor e info DUMP relatÛrio campos;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;1;1
+235;Em testes;2025;12;DENIS;ZMM0084 carga fornecedor ajustes mercado externo EX;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;3;1
 249;Entregue;2025;11;DENIS;Importar request Externa SAP - Upflux;MM;ALMANDO DOS SANTOS JUNIOR;Administrativa Financeira;1;1
-251;Em testes;2025;11;ISABELAB;Taxa de convers√£o fixa BRL na ZCO0007;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;12;1
+251;Em testes;2025;11;ISABELAB;Taxa de convers„o fixa BRL na ZCO0007;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;12;1
 251;Em testes;2025;11;ISABELAB;ZCO0014N - Demonstrativo do Resultado Gerencial - receita mercado interno ou externo;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;2;1
-251;Em testes;2025;12;NADIRB;Convers√£o de moeda fixa BRL na ZCO0055;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;1;1
-279;Em testes;2025;12;DEMO;Remover transa√ß√µes customizadas (Z) obsoletas (n√£o utilizadas);QM;√âVERTON DEMO;Administrativa Financeira;80;1
+251;Em testes;2025;12;NADIRB;Convers„o de moeda fixa BRL na ZCO0055;CO;SANDRA MARA WUERGES RAHN;Administrativa Financeira;1;1
+279;Em testes;2025;12;DEMO;Remover transaÁıes customizadas (Z) obsoletas (n„o utilizadas);QM;…VERTON DEMO;Administrativa Financeira;80;1
 285;Entregue;2025;12;FRANCISCOJ;Auditoria Externa Deloitte ACTT;AIS;FRANCISCO JOSE PEREIRA;Administrativa Financeira;3;1
 4398;Entregue;2025;2;DENIS;APIs GKO;LES;CLAUDIO APARECIDO CUSTODIO;Supply Chain;40;1
-4536;Entregue;2025;4;DENIS;Especifica√ß√£o para Melhorias Coletor RF WMS;WM;TIAGO FERREIRA PETRECHEN;Supply Chain;121;1
-5481;Entregue;2025;4;MARCOSR;Criar programa para ler LT (onde se usa) em massa e atualizar subst√¢ncias [Kosher];RD;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;96;1
-5606;Entregue;2025;2;FABIOS;ZCRM0002 convers√£o UM na gera√ß√£o de OV validar categoria YBON;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;4;1
-6106;Entregue;2025;5;DENIS;Inser√ß√£o campos adm tabela ZMMT0036 pr√© montagem FRA e relat√≥rio performance;WM;RODRIGO PADILHA BOTTARO;Supply Chain;3;1
-6219;Entregue;2025;5;FABIOS;Adicionar SISGEN em formul√°rios de opera√ß√µes de vendas;SD;ROBSON CRISTOVAO SCZYKOSKI;Comercial;20;1
-6311;Entregue;2025;3;DENIS;Criar Report Listagem Caracter√≠stica;MM;LETICIA SASSE ZAVADNIAK;Inova√ß√£o e Tecnologia;32;1
-6487;Entregue;2025;6;DENIS;Inserir Informa√ß√µes Tarefa FIORI aprova√ß√£o pedido;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;40;1
-6491;Entregue;2025;1;DENIS;Desenvolver Formul√°rio Aviso de Entrega Pedido de Compras;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;24;1
-6530;Entregue;2025;4;DENIS;Leitura Codigo Revenda QR Code Confer√™ncia Expedi√ß√£o (valida√ß√£o Etiqueta c√≥digo Material);WM;ROBERTO TORQUATO ALVES;Supply Chain;1;1
-6530;Entregue;2025;4;MARCOSR;Leitura Codigo Revenda QR Code Confer√™ncia Expedi√ß√£o (campo r√≥tulo LW_CAMPO_QR);PP;ROBERTO TORQUATO ALVES;Supply Chain;1;1
-6545;Entregue;2025;3;DENIS;Amplia√ß√£o OT WMS - impedir transfer√™ncia materiais bloqueados;WM;RODRIGO PADILHA BOTTARO;Supply Chain;8;1
-6622;Entregue;2025;4;FABIOS;Diverg√™ncia de informa√ß√£o de dilui√ß√£o no formul√°rio de solicita√ß√£o de amostra ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;3;1
-6634;Entregue;2025;8;MARCOSR;Incluir coluna com alerg√™nicos na ZPP0063;PP;RODRIGO PADILHA BOTTARO;Supply Chain;8;1
-6683;Entregue;2025;2;ANDERSONGI;Criar APIs para gera√ß√£o de documentos sob demanda;C4C;ISOLETE MAIS;Comercial;120;1
-6683;Entregue;2025;8;FABIOS;Cria√ß√£o de Fun√ß√£o RFC para uso em Mashups (ZSD0059);SD;ISOLETE MAIS;Comercial;6;1
-6693;Entregue;2025;3;ROSANEL;Incluir e alterar campos na ZQM0049 e ZQM0048 gest√£o documentos fornecedores;QM;FERNANDA MARQUES CANDIDO;Inova√ß√£o e Tecnologia;18;1
-6704;Entregue;2025;1;FABIOS;ZCRM0009 colunas segmenta√ß√£o e canal;SD;ELAINE KANZLER UBER;Marketing;32;1
-6730;Entregue;2025;2;FABIOS;Incluir kna1-name2 no formul√°rio de certificado de an√°lise;QM;N√ÅTILA REZENDE DE SOUZA;Comercial;4;1
-6741;Entregue;2025;4;ROSANEL;Permitir editar campo c√≥digo do cliente na ZRD0057;RD;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;1;1
-6745;Em testes;2025;9;DENIS;Bloco K invent√°rio ZMM0110;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;6;1
-6745;Em testes;2025;11;CLANDERSON;Bloco K invent√°rio relat√≥rio ZMM0122;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
-6772;Entregue;2025;2;MARCOSR;Amostra representativa confirma√ß√£o final dep√≥sito LC;PP;JEAN MARQUES DE OLIVEIRA;Opera√ß√µes Industriais;8;1
-6799;Entregue;2025;2;CLANDERSON;Validar status NFe impress√£o NAST / J1B3N;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;8;1
-6830;Entregue;2025;1;ROSANEL;Alterar logo formul√°rio Nota QM e Cabine de degusta√ß√£o;QM;N√ÅTILA REZENDE DE SOUZA;Comercial;4;1
-6843;Entregue;2025;7;MARCOSR;Impress√£o GHS cobrir losango com preto ao inv√©s de NA;PP;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;29;1
-6843;Entregue;2025;8;MARCOSR;Altera√ß√£o fabrica√ß√£o e validade conforme planejador MRP;PP;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;4;1
-6848;Entregue;2025;2;NADIRB;Incluir 4 campos na ZFI0004 T√≠tulos para Cart√≥rio;FI;ISABEL KELLER;Administrativa Financeira;3;1
-6850;Entregue;2025;6;DENIS;Ajustes ZMDM - Fluxo Cria√ß√£o de materiais;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;9;1
+4536;Entregue;2025;4;DENIS;EspecificaÁ„o para Melhorias Coletor RF WMS;WM;TIAGO FERREIRA PETRECHEN;Supply Chain;121;1
+5481;Entregue;2025;4;MARCOSR;Criar programa para ler LT (onde se usa) em massa e atualizar subst‚ncias [Kosher];RD;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;96;1
+5606;Entregue;2025;2;FABIOS;ZCRM0002 convers„o UM na geraÁ„o de OV validar categoria YBON;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;4;1
+6106;Entregue;2025;5;DENIS;InserÁ„o campos adm tabela ZMMT0036 prÈ montagem FRA e relatÛrio performance;WM;RODRIGO PADILHA BOTTARO;Supply Chain;3;1
+6219;Entregue;2025;5;FABIOS;Adicionar SISGEN em formul·rios de operaÁıes de vendas;SD;ROBSON CRISTOVAO SCZYKOSKI;Comercial;20;1
+6311;Entregue;2025;3;DENIS;Criar Report Listagem CaracterÌstica;MM;LETICIA SASSE ZAVADNIAK;InovaÁ„o e Tecnologia;32;1
+6487;Entregue;2025;6;DENIS;Inserir InformaÁıes Tarefa FIORI aprovaÁ„o pedido;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;40;1
+6491;Entregue;2025;1;DENIS;Desenvolver Formul·rio Aviso de Entrega Pedido de Compras;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;24;1
+6530;Entregue;2025;4;DENIS;Leitura Codigo Revenda QR Code ConferÍncia ExpediÁ„o (validaÁ„o Etiqueta cÛdigo Material);WM;ROBERTO TORQUATO ALVES;Supply Chain;1;1
+6530;Entregue;2025;4;MARCOSR;Leitura Codigo Revenda QR Code ConferÍncia ExpediÁ„o (campo rÛtulo LW_CAMPO_QR);PP;ROBERTO TORQUATO ALVES;Supply Chain;1;1
+6545;Entregue;2025;3;DENIS;AmpliaÁ„o OT WMS - impedir transferÍncia materiais bloqueados;WM;RODRIGO PADILHA BOTTARO;Supply Chain;8;1
+6622;Entregue;2025;4;FABIOS;DivergÍncia de informaÁ„o de diluiÁ„o no formul·rio de solicitaÁ„o de amostra ZCRM0002;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;3;1
+6634;Entregue;2025;8;MARCOSR;Incluir coluna com alergÍnicos na ZPP0063;PP;RODRIGO PADILHA BOTTARO;Supply Chain;8;1
+6683;Entregue;2025;2;ANDERSONGI;Criar APIs para geraÁ„o de documentos sob demanda;C4C;ISOLETE MAIS;Comercial;120;1
+6683;Entregue;2025;8;FABIOS;CriaÁ„o de FunÁ„o RFC para uso em Mashups (ZSD0059);SD;ISOLETE MAIS;Comercial;6;1
+6693;Entregue;2025;3;ROSANEL;Incluir e alterar campos na ZQM0049 e ZQM0048 gest„o documentos fornecedores;QM;FERNANDA MARQUES CANDIDO;InovaÁ„o e Tecnologia;18;1
+6704;Entregue;2025;1;FABIOS;ZCRM0009 colunas segmentaÁ„o e canal;SD;ELAINE KANZLER UBER;Marketing;32;1
+6730;Entregue;2025;2;FABIOS;Incluir kna1-name2 no formul·rio de certificado de an·lise;QM;N¡TILA REZENDE DE SOUZA;Comercial;4;1
+6741;Entregue;2025;4;ROSANEL;Permitir editar campo cÛdigo do cliente na ZRD0057;RD;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;1;1
+6745;Em testes;2025;9;DENIS;Bloco K invent·rio ZMM0110;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;6;1
+6745;Em testes;2025;11;CLANDERSON;Bloco K invent·rio relatÛrio ZMM0122;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
+6772;Entregue;2025;2;MARCOSR;Amostra representativa confirmaÁ„o final depÛsito LC;PP;JEAN MARQUES DE OLIVEIRA;OperaÁıes Industriais;8;1
+6799;Entregue;2025;2;CLANDERSON;Validar status NFe impress„o NAST / J1B3N;SD;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;8;1
+6830;Entregue;2025;1;ROSANEL;Alterar logo formul·rio Nota QM e Cabine de degustaÁ„o;QM;N¡TILA REZENDE DE SOUZA;Comercial;4;1
+6843;Entregue;2025;7;MARCOSR;Impress„o GHS cobrir losango com preto ao invÈs de NA;PP;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;29;1
+6843;Entregue;2025;8;MARCOSR;AlteraÁ„o fabricaÁ„o e validade conforme planejador MRP;PP;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;4;1
+6848;Entregue;2025;2;NADIRB;Incluir 4 campos na ZFI0004 TÌtulos para CartÛrio;FI;ISABEL KELLER;Administrativa Financeira;3;1
+6850;Entregue;2025;6;DENIS;Ajustes ZMDM - Fluxo CriaÁ„o de materiais;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;9;1
 6851;Entregue;2025;4;DENIS;Remover caracteres especiais DRC NF EGTI;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;1;1
-6851;Entregue;2025;6;CLANDERSON;Travess√£o Drawback rejeitado na valida√ß√£o DRC;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;1;1
+6851;Entregue;2025;6;CLANDERSON;Travess„o Drawback rejeitado na validaÁ„o DRC;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;1;1
 6853;Entregue;2025;3;IVONEIF;LakeHouse - Mapear View QAS;BASIS;IVONEI FEILER;Administrativa Financeira;3;1
-6853;Entregue;2025;4;IVONEIF;LakeHouse - Estudo/Cria√ß√£o Fun√ß√£o RFC Din√¢mica;BASIS;IVONEI FEILER;Administrativa Financeira;24;1
-6853;Entregue;2025;4;IVONEIF;LakeHouse - Criar Fun√ß√£o RFC leitura VBAK-KONV;BASIS;IVONEI FEILER;Administrativa Financeira;6;1
+6853;Entregue;2025;4;IVONEIF;LakeHouse - Estudo/CriaÁ„o FunÁ„o RFC Din‚mica;BASIS;IVONEI FEILER;Administrativa Financeira;24;1
+6853;Entregue;2025;4;IVONEIF;LakeHouse - Criar FunÁ„o RFC leitura VBAK-KONV;BASIS;IVONEI FEILER;Administrativa Financeira;6;1
 6853;Entregue;2025;7;IVONEIF;LakeHouse - Criar View VBRK-VBRP;BASIS;IVONEI FEILER;Administrativa Financeira;1;1
 6853;Entregue;2025;3;IVONEIF;LakeHouse - Mapear APIs QAS;BASIS;IVONEI FEILER;Administrativa Financeira;4;1
-6853;Entregue;2025;4;IVONEIF;LakeHouse - Criar Fun√ß√£o RFC leitura VBRK-KONV;BASIS;IVONEI FEILER;Administrativa Financeira;1;1
-6853;Entregue;2025;6;IVONEIF;LakeHouse - Criar Fun√ß√£o RFC leitura CDHDR-CDPOS registros eliminados;BASIS;IVONEI FEILER;Administrativa Financeira;3;1
-6857;Entregue;2025;6;ROSANEL;Criar campos para novas categorias de turmas ZQM0014;QM;FERNANDA MARQUES CANDIDO;Inova√ß√£o e Tecnologia;5;1
-6867;Entregue;2025;3;ROSANEL;Adicionar linha para visualizar a descri√ß√£o do material na Ficha T√©cnica;RD;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;2;1
-6872;Entregue;2025;1;ROSANEL;QE11 c√≥pia SKIP processo de amostra expandido + DUMP SM13 entrada duplicada;QM;√âVERTON DEMO;Administrativa Financeira;8;1
-6873;Entregue;2025;1;ROSANEL;ZRD0055 restri√ß√£o acesso HZ multin√≠vel;RD;LETICIA SASSE ZAVADNIAK;Inova√ß√£o e Tecnologia;8;1
+6853;Entregue;2025;4;IVONEIF;LakeHouse - Criar FunÁ„o RFC leitura VBRK-KONV;BASIS;IVONEI FEILER;Administrativa Financeira;1;1
+6853;Entregue;2025;6;IVONEIF;LakeHouse - Criar FunÁ„o RFC leitura CDHDR-CDPOS registros eliminados;BASIS;IVONEI FEILER;Administrativa Financeira;3;1
+6857;Entregue;2025;6;ROSANEL;Criar campos para novas categorias de turmas ZQM0014;QM;FERNANDA MARQUES CANDIDO;InovaÁ„o e Tecnologia;5;1
+6867;Entregue;2025;3;ROSANEL;Adicionar linha para visualizar a descriÁ„o do material na Ficha TÈcnica;RD;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;2;1
+6872;Entregue;2025;1;ROSANEL;QE11 cÛpia SKIP processo de amostra expandido + DUMP SM13 entrada duplicada;QM;…VERTON DEMO;Administrativa Financeira;8;1
+6873;Entregue;2025;1;ROSANEL;ZRD0055 restriÁ„o acesso HZ multinÌvel;RD;LETICIA SASSE ZAVADNIAK;InovaÁ„o e Tecnologia;8;1
 6875;Entregue;2025;2;DENIS;Inserir campos na ZMM0064;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;1;1
-6879;Entregue;2025;7;CLANDERSON;Atualiza√ß√£o REINF corre√ß√£o objeto ZFHG_ENH_GNRE_GERA_LCTO;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
-6884;Entregue;2025;9;DENIS;Criar Relat√≥rio Prazos Fluxo Cria√ß√£o de Materiais;MM;LETICIA SASSE ZAVADNIAK;Inova√ß√£o e Tecnologia;16;1
-6888;Entregue;2025;3;DENIS;Valida√ß√£o CNPJ duplicado Tabela Fornecedor;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;4;1
+6879;Entregue;2025;7;CLANDERSON;AtualizaÁ„o REINF correÁ„o objeto ZFHG_ENH_GNRE_GERA_LCTO;FI;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;2;1
+6884;Entregue;2025;9;DENIS;Criar RelatÛrio Prazos Fluxo CriaÁ„o de Materiais;MM;LETICIA SASSE ZAVADNIAK;InovaÁ„o e Tecnologia;16;1
+6888;Entregue;2025;3;DENIS;ValidaÁ„o CNPJ duplicado Tabela Fornecedor;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;4;1
 6888;Entregue;2025;4;FABIOS;Erro de duplicidade de CNPJ ao ampliar empresa de cliente;SD;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;8;1
-6889;Entregue;2025;2;DENIS;ZMM0120 adicionar filtro data desembara√ßo;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;1;1
-6898;Entregue;2025;4;DENIS;Alterar o dom√≠nio J_1BMODEL para categoria de NF 62;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;1;1
-6901;Entregue;2025;2;ROSANEL;ZRD0043 e Ficha T√©cnica - explos√£o multin√≠vel considerando quantidade requerida;RD;LETICIA SASSE ZAVADNIAK;Inova√ß√£o e Tecnologia;4;1
+6889;Entregue;2025;2;DENIS;ZMM0120 adicionar filtro data desembaraÁo;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;1;1
+6898;Entregue;2025;4;DENIS;Alterar o domÌnio J_1BMODEL para categoria de NF 62;MM;TAMIRES PRICILA DO NASCIMENTO PEREIRA;Administrativa Financeira;1;1
+6901;Entregue;2025;2;ROSANEL;ZRD0043 e Ficha TÈcnica - explos„o multinÌvel considerando quantidade requerida;RD;LETICIA SASSE ZAVADNIAK;InovaÁ„o e Tecnologia;4;1
 6916;Entregue;2025;2;NADIRB;ZFI0018 renovar fator vencimento boleto febraban;FI;ISABEL KELLER;Administrativa Financeira;3;1
 6916;Entregue;2025;2;NADIRB;/N/FHERP/PAINEL_DDA fator Vencimento Contas a Pagar;FI;ISABEL KELLER;Administrativa Financeira;8;1
-6916;Entregue;2025;3;NADIRB;Tabela ZFIT0117 habilitar registro log modifica√ß√µes;FI;ISABEL KELLER;Administrativa Financeira;1;1
-6941;Entregue;2025;3;MARCOSR;Descri√ß√£o material idioma franc√™s r√≥tulo ZPP0060;PP;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;4;1
-6949;Entregue;2025;7;DENIS;Criar Report Dados de Lead Time Requisi√ß√£o Compras;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;2;1
+6916;Entregue;2025;3;NADIRB;Tabela ZFIT0117 habilitar registro log modificaÁıes;FI;ISABEL KELLER;Administrativa Financeira;1;1
+6941;Entregue;2025;3;MARCOSR;DescriÁ„o material idioma francÍs rÛtulo ZPP0060;PP;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;4;1
+6949;Entregue;2025;7;DENIS;Criar Report Dados de Lead Time RequisiÁ„o Compras;MM;ZULEIDE FERNANDA DOROW MULLER;Supply Chain;2;1
 6952;Entregue;2025;3;DENIS;Adicionar campos ZMM0067;MM;ROBERTO TORQUATO ALVES;Supply Chain;2;1
-6953;Entregue;2025;2;NADIRB;Criar Transa√ß√£o ZFI a Partir de Programa Standard Nota 666587;FI;NEUCINDA APARECIDA CARVALHO;Administrativa Financeira;2;1
-6953;Entregue;2025;3;NADIRB;Criar Cockpit An√°lise Reestrutura√ß√£o Cr√©dito Cliente;FI;NEUCINDA APARECIDA CARVALHO;Administrativa Financeira;2;1
-6963;Entregue;2025;8;ELISANDRAC;Controle de Recursos de TI no Planejamento de Investimentos ZCO0050/51;CO;√âVERTON DEMO;Administrativa Financeira;194;1
-6983;Entregue;2025;3;FABIOS;Adicionar na transa√ß√£o ZSD0071 op√ß√£o para cria√ß√£o/edi√ß√£o de Grupos de Clientes;SD;GISELE TAINARA URBAN;Comercial;2;1
-7008;Entregue;2025;7;ROSANEL;Esbo√ßo etiqueta ingredientes texto longo apelido;RD;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;4;1
-7021;Entregue;2025;4;DENIS;Criar Relat√≥rio Materiais Perigosos (GHS) x Quantidade Estoque;MM;JEAN MARQUES DE OLIVEIRA;Opera√ß√µes Industriais;16;1
-7032;Entregue;2025;4;DENIS;Ajustar Report ZMM0037 - Extra√ß√£o por idioma texto longo material;MM;DJEISON ROBERTO WENDT;Inova√ß√£o e Tecnologia;1;1
-7065;Entregue;2025;4;ELISANDRAC;Ajuste transa√ß√£o ZCO0014N - leitura per√≠odo ZCOT0019;CO;RAPHAELA KETHERINE KRAUSE RADUNZ;Administrativa Financeira;5;1
-7066;Entregue;2025;3;NADIRB;Inclus√£o Campos KOSTL, VERAK e Contador e altera√ß√£o 35 dias na ZAIS0008;AIS;JACYR JEFFERSON POPENDA;Administrativa Financeira;3;1
-7066;Entregue;2025;3;NADIRB;Informa√ß√£o de licen√ßas ABAP dispon√≠veis na ZAIS0005;AIS;JACYR JEFFERSON POPENDA;Administrativa Financeira;2;1
+6953;Entregue;2025;2;NADIRB;Criar TransaÁ„o ZFI a Partir de Programa Standard Nota 666587;FI;NEUCINDA APARECIDA CARVALHO;Administrativa Financeira;2;1
+6953;Entregue;2025;3;NADIRB;Criar Cockpit An·lise ReestruturaÁ„o CrÈdito Cliente;FI;NEUCINDA APARECIDA CARVALHO;Administrativa Financeira;2;1
+6963;Entregue;2025;8;ELISANDRAC;Controle de Recursos de TI no Planejamento de Investimentos ZCO0050/51;CO;…VERTON DEMO;Administrativa Financeira;194;1
+6983;Entregue;2025;3;FABIOS;Adicionar na transaÁ„o ZSD0071 opÁ„o para criaÁ„o/ediÁ„o de Grupos de Clientes;SD;GISELE TAINARA URBAN;Comercial;2;1
+7008;Entregue;2025;7;ROSANEL;EsboÁo etiqueta ingredientes texto longo apelido;RD;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;4;1
+7021;Entregue;2025;4;DENIS;Criar RelatÛrio Materiais Perigosos (GHS) x Quantidade Estoque;MM;JEAN MARQUES DE OLIVEIRA;OperaÁıes Industriais;16;1
+7032;Entregue;2025;4;DENIS;Ajustar Report ZMM0037 - ExtraÁ„o por idioma texto longo material;MM;DJEISON ROBERTO WENDT;InovaÁ„o e Tecnologia;1;1
+7065;Entregue;2025;4;ELISANDRAC;Ajuste transaÁ„o ZCO0014N - leitura perÌodo ZCOT0019;CO;RAPHAELA KETHERINE KRAUSE RADUNZ;Administrativa Financeira;5;1
+7066;Entregue;2025;3;NADIRB;Inclus„o Campos KOSTL, VERAK e Contador e alteraÁ„o 35 dias na ZAIS0008;AIS;JACYR JEFFERSON POPENDA;Administrativa Financeira;3;1
+7066;Entregue;2025;3;NADIRB;InformaÁ„o de licenÁas ABAP disponÌveis na ZAIS0005;AIS;JACYR JEFFERSON POPENDA;Administrativa Financeira;2;1
 7068;Entregue;2025;6;DENIS;Importar request Externa SAP - Upflux;MM;JEFERSOM JOSE SEIBERT MORETTI;Supply Chain;3;1
-7087;Entregue;2025;8;DENIS;Diferen√ßa frete devolu√ß√£o CO x PA;LES;RAPHAELA KETHERINE KRAUSE RADUNZ;Administrativa Financeira;2;1
-7104;Entregue;2025;5;FABIOS;Adicionar coluna Data Cria√ß√£o na transa√ß√£o ZSD0057;SD;GISELE TAINARA URBAN;Comercial;2;1
-7108;Entregue;2025;7;MARCOSR;"Relat√≥rio ZPP0005 adicionar coluna Z3 similar ""Proje√ß√£o Proxi. M√™s (Z2)""";PP;DIEGO JACOMOLISKI;Supply Chain;2;1
-7117;Entregue;2025;12;DENIS;Aprova√ß√£o de pedidos de compra SAP via Teams;MM;√âVERTON DEMO;Administrativa Financeira;100;1
-7123;Em testes;2025;8;ELISANDRAC;"Incluir campo ""comprometido"" na transa√ß√£o ZCO0011";CO;JEAN MARQUES DE OLIVEIRA;Opera√ß√µes Industriais;26;1
-7136;Entregue;2025;7;FABIOS;Tradu√ß√£o monitor de amostras ZCRM0002/9 para EN e ES;SD;JULIANA BATISTA VAZQUEZ;Inova√ß√£o e Tecnologia;80;1
-7140;Entregue;2025;5;DENIS;Aterar descri√ß√£o valores dom√≠nio ZMMDD_TIPO_ESTOQUE;MM;DANIEL REINKE;Supply Chain;1;1
-7153;Entregue;2025;5;NADIRB;Desenvolver Transa√ß√£o API Presta√ß√£o de Contas DataSC;FI;ISABEL KELLER;Administrativa Financeira;4;1
-7159;Entregue;2025;7;IVONEIF;Projeto DRICA Lighthouse - Cria√ß√£o de fun√ß√£o RFC para buscar textos;SD;ISOLETE MAIS;Comercial;3;1
-7159;Entregue;2025;9;FABIOS;DRICA Lighthouse - preencher campos tabela ZCRMT0021 na indica√ß√£o ZCRM0002 e origem C4C;CRM;ISOLETE MAIS;Comercial;12;1
-7214;Entregue;2025;7;NADIRB;Criar Programa de Carga Texto Contas Contabeis FS00;FI;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;8;1
-7214;Entregue;2025;8;ELISANDRAC;ZCO0007 tradu√ß√£o grupo de mercadorias (linha);CO;MARCELA ANDR√âIA ALVES CIESLINSKI;Administrativa Financeira;1;1
-7227;Entregue;2025;7;DENIS;Tradu√ß√£o aba Dados do cliente no cabe√ßalho PO;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;2;1
-7230;Entregue;2025;7;DENIS;Altera√ß√£o relat√≥rio/query ZMM0072 exibir totais por data;MM;MATHEUS DANTAS VICTOR;Opera√ß√µes Industriais;12;1
-7233;Entregue;2025;9;MARCOSR;Programa para controle de lote meio de processos;PP;JEAN MARQUES DE OLIVEIRA;Opera√ß√µes Industriais;40;1
-7257;Entregue;2025;7;ROSANEL;Weite - Tradu√ß√£o Ficha de Produto NWBC;RD;PAULA ZANATTA;Inova√ß√£o e Tecnologia;56;1
-7257;Entregue;2025;9;ROSANEL;Weite - Tradu√ß√£o F√≥rmula de Aplica√ß√£o NWBC;RD;PAULA ZANATTA;Inova√ß√£o e Tecnologia;20;1
-7281;Entregue;2025;7;KLEBERSON;Fun√ß√£o remota para imprimir restri√ß√£o do material na Ordem Digital;PP;INGRID SOUZA BRIKALSKI;Opera√ß√µes Industriais;2;1
-7307;Entregue;2025;7;NADIRB;Inclus√£o Campos FBL1N;FI;ROSEMERI FAGUNDES PRA;Administrativa Financeira;2;1
-
+7087;Entregue;2025;8;DENIS;DiferenÁa frete devoluÁ„o CO x PA;LES;RAPHAELA KETHERINE KRAUSE RADUNZ;Administrativa Financeira;2;1
+7104;Entregue;2025;5;FABIOS;Adicionar coluna Data CriaÁ„o na transaÁ„o ZSD0057;SD;GISELE TAINARA URBAN;Comercial;2;1
+7108;Entregue;2025;7;MARCOSR;"RelatÛrio ZPP0005 adicionar coluna Z3 similar ""ProjeÁ„o Proxi. MÍs (Z2)""";PP;DIEGO JACOMOLISKI;Supply Chain;2;1
+7117;Entregue;2025;12;DENIS;AprovaÁ„o de pedidos de compra SAP via Teams;MM;…VERTON DEMO;Administrativa Financeira;100;1
+7123;Em testes;2025;8;ELISANDRAC;"Incluir campo ""comprometido"" na transaÁ„o ZCO0011";CO;JEAN MARQUES DE OLIVEIRA;OperaÁıes Industriais;26;1
+7136;Entregue;2025;7;FABIOS;TraduÁ„o monitor de amostras ZCRM0002/9 para EN e ES;SD;JULIANA BATISTA VAZQUEZ;InovaÁ„o e Tecnologia;80;1
+7140;Entregue;2025;5;DENIS;Aterar descriÁ„o valores domÌnio ZMMDD_TIPO_ESTOQUE;MM;DANIEL REINKE;Supply Chain;1;1
+7153;Entregue;2025;5;NADIRB;Desenvolver TransaÁ„o API PrestaÁ„o de Contas DataSC;FI;ISABEL KELLER;Administrativa Financeira;4;1
+7159;Entregue;2025;7;IVONEIF;Projeto DRICA Lighthouse - CriaÁ„o de funÁ„o RFC para buscar textos;SD;ISOLETE MAIS;Comercial;3;1
+7159;Entregue;2025;9;FABIOS;DRICA Lighthouse - preencher campos tabela ZCRMT0021 na indicaÁ„o ZCRM0002 e origem C4C;CRM;ISOLETE MAIS;Comercial;12;1
+7214;Entregue;2025;7;NADIRB;Criar Programa de Carga Texto Contas Contabeis FS00;FI;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;8;1
+7214;Entregue;2025;8;ELISANDRAC;ZCO0007 traduÁ„o grupo de mercadorias (linha);CO;MARCELA ANDR…IA ALVES CIESLINSKI;Administrativa Financeira;1;1
+7227;Entregue;2025;7;DENIS;TraduÁ„o aba Dados do cliente no cabeÁalho PO;MM;LUANA DOS SANTOS POSSAMAI DELLA STEFANI;Supply Chain;2;1
+7230;Entregue;2025;7;DENIS;AlteraÁ„o relatÛrio/query ZMM0072 exibir totais por data;MM;MATHEUS DANTAS VICTOR;OperaÁıes Industriais;12;1
+7233;Entregue;2025;9;MARCOSR;Programa para controle de lote meio de processos;PP;JEAN MARQUES DE OLIVEIRA;OperaÁıes Industriais;40;1
+7257;Entregue;2025;7;ROSANEL;Weite - TraduÁ„o Ficha de Produto NWBC;RD;PAULA ZANATTA;InovaÁ„o e Tecnologia;56;1
+7257;Entregue;2025;9;ROSANEL;Weite - TraduÁ„o FÛrmula de AplicaÁ„o NWBC;RD;PAULA ZANATTA;InovaÁ„o e Tecnologia;20;1
+7281;Entregue;2025;7;KLEBERSON;FunÁ„o remota para imprimir restriÁ„o do material na Ordem Digital;PP;INGRID SOUZA BRIKALSKI;OperaÁıes Industriais;2;1
+7307;Entregue;2025;7;NADIRB;Inclus„o Campos FBL1N;FI;ROSEMERI FAGUNDES PRA;Administrativa Financeira;2;1
